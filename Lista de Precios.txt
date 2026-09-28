@@ -1,0 +1,1051 @@
+	Lista de Precios / Cotización — Cámaras y Equipamiento								
+									
+	Cliente:								
+	Proyecto:								
+	Fecha:								
+	Elaborado por:								
+									
+	A. Cámaras — Base de Datos (968 modelos: 20 marcas × 14 tipos × 5 variantes)								
+	N°	Marca	Tipo de Cámara	Modelo	Precio Unit. (USD)	Cantidad	Descuento	Subtotal (USD)	Notas
+	1	Axis Communications	Domo	AXIS M3086-V	$545				
+	2	Axis Communications	Domo	AXIS M3206-LVE	$820				
+	3	Axis Communications	Domo	AXIS P3245-LVE	"$1,090"				
+	4	Axis Communications	Domo	AXIS P3265-LVE	"$1,635"				
+	5	Axis Communications	Domo	AXIS P3268-LVE	"$2,400"				
+	6	Axis Communications	Domo Antivandálica	AXIS M3206-LVE	$345				
+	7	Axis Communications	Domo Antivandálica	AXIS P3245-LVE	$520				
+	8	Axis Communications	Domo Antivandálica	AXIS P3265-LVE	$690				
+	9	Axis Communications	Domo Antivandálica	AXIS Q3511-LVE	"$1,035"				
+	10	Axis Communications	Domo Antivandálica	AXIS Q3536-SLVE	"$1,520"				
+	11	Axis Communications	Bala	AXIS M1135	$470				
+	12	Axis Communications	Bala	AXIS P1465-LE	$705				
+	13	Axis Communications	Bala	AXIS P1467-LE	$940				
+	14	Axis Communications	Bala	AXIS P1468-LE	"$1,410"				
+	15	Axis Communications	Bala	AXIS Q1798-LE	"$2,070"				
+	16	Axis Communications	PTZ	AXIS M5525-E	"$2,740"				
+	17	Axis Communications	PTZ	AXIS P5654-E	"$4,110"				
+	18	Axis Communications	PTZ	AXIS P5655-E	"$5,480"				
+	19	Axis Communications	PTZ	AXIS Q6075-C	"$8,220"				
+	20	Axis Communications	PTZ	AXIS Q6075-E	"$12,055"				
+	21	Axis Communications	Mini PTZ	AXIS M5525-E	$825				
+	22	Axis Communications	Mini PTZ	AXIS M5526-E	"$1,240"				
+	23	Axis Communications	Mini PTZ	AXIS P5522-E	"$1,650"				
+	24	Axis Communications	Mini PTZ	AXIS Q6124-LE	"$2,475"				
+	25	Axis Communications	Mini PTZ	AXIS Q6225-LE	"$3,630"				
+	26	Axis Communications	Turrón (Box)	AXIS P1375	$295				
+	27	Axis Communications	Turrón (Box)	AXIS P1367-LE	$440				
+	28	Axis Communications	Turrón (Box)	AXIS P1377	$590				
+	29	Axis Communications	Turrón (Box)	AXIS P1378	$885				
+	30	Axis Communications	Turrón (Box)	AXIS Q1656-LE	"$1,300"				
+	31	Axis Communications	Ojo de Pez (Fisheye)	AXIS M3057-PLVE	$495				
+	32	Axis Communications	Ojo de Pez (Fisheye)	AXIS M3058-PLVE	$740				
+	33	Axis Communications	Ojo de Pez (Fisheye)	AXIS M3075-PLVE	$990				
+	34	Axis Communications	Ojo de Pez (Fisheye)	AXIS M3076-PLVE	"$1,485"				
+	35	Axis Communications	Ojo de Pez (Fisheye)	AXIS M3077-PLVE	"$2,180"				
+	36	Axis Communications	Multisensor / Panorámica	AXIS P3718-PLE	"$1,645"				
+	37	Axis Communications	Multisensor / Panorámica	AXIS P3719-PLE	"$2,470"				
+	38	Axis Communications	Multisensor / Panorámica	AXIS P3727-PLE	"$3,290"				
+	39	Axis Communications	Multisensor / Panorámica	AXIS P3735-PLE	"$4,935"				
+	40	Axis Communications	Multisensor / Panorámica	AXIS P3737-PLE	"$7,240"				
+	41	Axis Communications	Oculta (Pinhole)	AXIS P1264	$260				
+	42	Axis Communications	Oculta (Pinhole)	AXIS P1265	$390				
+	43	Axis Communications	Oculta (Pinhole)	AXIS P1275	$520				
+	44	Axis Communications	Oculta (Pinhole)	AXIS F2135-RE	$780				
+	45	Axis Communications	Oculta (Pinhole)	AXIS F2136-RE	"$1,145"				
+	46	Axis Communications	Térmica	AXIS Q1941-E 60 mm	"$3,950"				
+	47	Axis Communications	Térmica	AXIS Q1952-E 60 mm	"$5,925"				
+	48	Axis Communications	Térmica	AXIS Q1971-E 35 mm	"$7,900"				
+	49	Axis Communications	Térmica	AXIS Q1971-E 60 mm	"$11,850"				
+	50	Axis Communications	Térmica	AXIS Q8742-LE	"$17,380"				
+	51	Axis Communications	LPR (Matrículas)	AXIS P1448-LE	"$1,740"				
+	52	Axis Communications	LPR (Matrículas)	AXIS P1467-LE	"$2,610"				
+	53	Axis Communications	LPR (Matrículas)	AXIS P1468-LE	"$3,480"				
+	54	Axis Communications	LPR (Matrículas)	AXIS Q1798-C	"$5,220"				
+	55	Axis Communications	LPR (Matrículas)	AXIS Q1798-LE	"$7,655"				
+	56	Axis Communications	Dual-Lente	AXIS P4705-PLVE	"$1,395"				
+	57	Axis Communications	Dual-Lente	AXIS P4706-PLVE	"$2,090"				
+	58	Axis Communications	Dual-Lente	AXIS P4707-PLVE	"$2,790"				
+	59	Axis Communications	Dual-Lente	AXIS P4708-PLVE	"$4,185"				
+	60	Axis Communications	Dual-Lente	AXIS P4718-PLVE	"$6,140"				
+	61	Axis Communications	IA Integrada	AXIS P1465-LE	$690				
+	62	Axis Communications	IA Integrada	AXIS P1467-LE	"$1,035"				
+	63	Axis Communications	IA Integrada	AXIS Q1786-LE	"$1,380"				
+	64	Axis Communications	IA Integrada	AXIS Q1786-SLE	"$2,070"				
+	65	Axis Communications	IA Integrada	AXIS Q1798-LE	"$3,035"				
+	66	Axis Communications	Interior WiFi	No disponible en portafolio					
+	67	Bosch Security Systems	Domo	FLEXIDOME IP indoor 3000i (NDI-3502-AL)	$390				
+	68	Bosch Security Systems	Domo	FLEXIDOME IP indoor 3000i (NDI-3503-AL)	$585				
+	69	Bosch Security Systems	Domo	FLEXIDOME IP indoor 5000i (NDI-5502-AL)	$780				
+	70	Bosch Security Systems	Domo	FLEXIDOME IP indoor 5000i (NDI-5503-AL)	"$1,170"				
+	71	Bosch Security Systems	Domo	FLEXIDOME IP indoor 7000i (NDI-7503-Z12)	"$1,715"				
+	72	Bosch Security Systems	Domo Antivandálica	FLEXIDOME IP outdoor 3000i (NDE-3502-AL)	$445				
+	73	Bosch Security Systems	Domo Antivandálica	FLEXIDOME IP outdoor 3000i (NDE-3503-AL)	$670				
+	74	Bosch Security Systems	Domo Antivandálica	FLEXIDOME IP outdoor 5000i (NDE-5502-AL)	$890				
+	75	Bosch Security Systems	Domo Antivandálica	FLEXIDOME IP outdoor 5000i (NDE-5503-AL)	"$1,335"				
+	76	Bosch Security Systems	Domo Antivandálica	FLEXIDOME IP outdoor 7000i (NDE-7503-Z12)	"$1,960"				
+	77	Bosch Security Systems	Bala	DINION IP 3000i IR (NBE-3502-AL)	$465				
+	78	Bosch Security Systems	Bala	DINION IP 3000i IR (NBE-3503-AL)	$700				
+	79	Bosch Security Systems	Bala	DINION IP bullet 5000i (NBE-5502-AL)	$930				
+	80	Bosch Security Systems	Bala	DINION IP bullet 5000i IR (NBE-5503-AL)	"$1,395"				
+	81	Bosch Security Systems	Bala	DINION IP 7000i IR (NBE-7503-Z30)	"$2,045"				
+	82	Bosch Security Systems	PTZ	AUTODOME IP 4000i (NDU-4502-IX)	"$1,375"				
+	83	Bosch Security Systems	PTZ	AUTODOME IP 5000i (NDU-5502-IX)	"$2,060"				
+	84	Bosch Security Systems	PTZ	AUTODOME IP 5000i (NDU-5503-IX)	"$2,750"				
+	85	Bosch Security Systems	PTZ	MIC IP fusion 9000i	"$4,125"				
+	86	Bosch Security Systems	PTZ	MIC IP starion 8000i	"$6,050"				
+	87	Bosch Security Systems	Mini PTZ	AUTODOME IP micro 5000i (NDI-5502-MS)	$950				
+	88	Bosch Security Systems	Mini PTZ	AUTODOME IP micro 5000i (NDI-5503-MS)	"$1,425"				
+	89	Bosch Security Systems	Mini PTZ	AUTODOME IP micro 7000i (NDI-7502-Z12)	"$1,900"				
+	90	Bosch Security Systems	Mini PTZ	AUTODOME IP micro 7000i (NDI-7503-Z12)	"$2,850"				
+	91	Bosch Security Systems	Mini PTZ	AUTODOME IP 4000i (NDU-4502-IX)	"$4,180"				
+	92	Bosch Security Systems	Turrón (Box)	DINION IP 4000i (NII-4002-IP)	$320				
+	93	Bosch Security Systems	Turrón (Box)	DINION IP 5000i (NII-5502-AL)	$480				
+	94	Bosch Security Systems	Turrón (Box)	DINION IP 5000i (NII-5503-AL)	$640				
+	95	Bosch Security Systems	Turrón (Box)	DINION IP 7000i (NII-7502-Z12)	$960				
+	96	Bosch Security Systems	Turrón (Box)	DINION IP 7000i (NII-7503-Z12)	"$1,410"				
+	97	Bosch Security Systems	Ojo de Pez (Fisheye)	FLEXIDOME IP panoramic 5000i (NDS-5002-Q36)	$875				
+	98	Bosch Security Systems	Ojo de Pez (Fisheye)	FLEXIDOME IP panoramic 5000i (NDS-5003-Q36)	"$1,310"				
+	99	Bosch Security Systems	Ojo de Pez (Fisheye)	FLEXIDOME IP panoramic 7000i RD (NDS-7003-X12)	"$1,750"				
+	100	Bosch Security Systems	Ojo de Pez (Fisheye)	FLEXIDOME IP panoramic 7000i RD (NDS-7004-X20)	"$2,625"				
+	101	Bosch Security Systems	Ojo de Pez (Fisheye)	FLEXIDOME IP panoramic 7000i S21 (NDS-7021-X20)	"$3,850"				
+	102	Bosch Security Systems	Multisensor / Panorámica	FLEXIDOME IP multi 7000i (NDS-7002-X10)	"$1,950"				
+	103	Bosch Security Systems	Multisensor / Panorámica	FLEXIDOME IP multi 7000i (NDS-7003-X20)	"$2,925"				
+	104	Bosch Security Systems	Multisensor / Panorámica	FLEXIDOME IP multi 7000i (NDS-7004-X20)	"$3,900"				
+	105	Bosch Security Systems	Multisensor / Panorámica	FLEXIDOME IP multi 7000i (NDS-7004-X30)	"$5,850"				
+	106	Bosch Security Systems	Multisensor / Panorámica	FLEXIDOME IP multi 9000i (NDS-9004-X40)	"$8,580"				
+	107	Bosch Security Systems	Oculta (Pinhole)	No disponible en portafolio					
+	108	Bosch Security Systems	Térmica	MIC IP thermal 7100i (35 mm)	"$5,750"				
+	109	Bosch Security Systems	Térmica	MIC IP thermal 7100i (60 mm)	"$8,625"				
+	110	Bosch Security Systems	Térmica	MIC IP thermal 7100i (95 mm)	"$11,500"				
+	111	Bosch Security Systems	Térmica	MIC IP dynamic 7000i	"$17,250"				
+	112	Bosch Security Systems	Térmica	MIC IP fusion 9000i	"$25,300"				
+	113	Bosch Security Systems	LPR (Matrículas)	DINION 7100i IR ANPR (8–32 mm)	$525				
+	114	Bosch Security Systems	LPR (Matrículas)	DINION 7100i IR ANPR (16–50 mm)	$790				
+	115	Bosch Security Systems	LPR (Matrículas)	DINION 7100i IR ANPR (35–80 mm)	"$1,050"				
+	116	Bosch Security Systems	LPR (Matrículas)	FLEXIDOME 7100i IR ANPR (8–32 mm)	"$1,575"				
+	117	Bosch Security Systems	LPR (Matrículas)	AUTODOME 7000i ANPR	"$2,310"				
+	118	Bosch Security Systems	Dual-Lente	No disponible en portafolio					
+	119	Bosch Security Systems	IA Integrada	FLEXIDOME IP indoor 5000i (IVA)	$625				
+	120	Bosch Security Systems	IA Integrada	FLEXIDOME IP outdoor 5000i (IVA)	$940				
+	121	Bosch Security Systems	IA Integrada	DINION IP bullet 5000i (IVA)	"$1,250"				
+	122	Bosch Security Systems	IA Integrada	FLEXIDOME IP 7000i (IVA avanzado)	"$1,875"				
+	123	Bosch Security Systems	IA Integrada	MIC IP fusion 9000i (IVA)	"$2,750"				
+	124	Bosch Security Systems	Interior WiFi	Bosch Smart Home Camera 360°	$100				
+	125	Bosch Security Systems	Interior WiFi	Bosch Smart Home Camera II	$150				
+	126	Bosch Security Systems	Interior WiFi	Bosch Smart Home Eyes II (interior)	$200				
+	127	Bosch Security Systems	Interior WiFi	Bosch Smart Home Eyes (exterior)	$300				
+	128	Bosch Security Systems	Interior WiFi	Bosch Smart Home Eyes II (exterior)	$440				
+	129	Hanwha Vision (Wisenet)	Domo	XNV-6011	$170				
+	130	Hanwha Vision (Wisenet)	Domo	XNV-6081R	$255				
+	131	Hanwha Vision (Wisenet)	Domo	XNV-L6083R	$340				
+	132	Hanwha Vision (Wisenet)	Domo	XNV-C6083R	$510				
+	133	Hanwha Vision (Wisenet)	Domo	PNV-A9081R	$750				
+	134	Hanwha Vision (Wisenet)	Domo Antivandálica	XNV-6081R	$240				
+	135	Hanwha Vision (Wisenet)	Domo Antivandálica	XNV-L6083R	$360				
+	136	Hanwha Vision (Wisenet)	Domo Antivandálica	XNV-C6083R	$480				
+	137	Hanwha Vision (Wisenet)	Domo Antivandálica	PNV-A6081R	$720				
+	138	Hanwha Vision (Wisenet)	Domo Antivandálica	PNV-A9081R	"$1,055"				
+	139	Hanwha Vision (Wisenet)	Bala	XNO-6083R	$180				
+	140	Hanwha Vision (Wisenet)	Bala	XNO-L6083R	$270				
+	141	Hanwha Vision (Wisenet)	Bala	XNO-C6083R	$360				
+	142	Hanwha Vision (Wisenet)	Bala	PNO-A6081R	$540				
+	143	Hanwha Vision (Wisenet)	Bala	PNO-A9081R	$790				
+	144	Hanwha Vision (Wisenet)	PTZ	XNP-6120RW	"$1,600"				
+	145	Hanwha Vision (Wisenet)	PTZ	XNP-6400RW	"$2,400"				
+	146	Hanwha Vision (Wisenet)	PTZ	XNP-C6403RW	"$3,200"				
+	147	Hanwha Vision (Wisenet)	PTZ	XNP-8250R	"$4,800"				
+	148	Hanwha Vision (Wisenet)	PTZ	PNP-9200RH	"$7,040"				
+	149	Hanwha Vision (Wisenet)	Mini PTZ	SNP-3120VH	$875				
+	150	Hanwha Vision (Wisenet)	Mini PTZ	SNP-5200H	"$1,310"				
+	151	Hanwha Vision (Wisenet)	Mini PTZ	SNP-6230H	"$1,750"				
+	152	Hanwha Vision (Wisenet)	Mini PTZ	SNP-6320H	"$2,625"				
+	153	Hanwha Vision (Wisenet)	Mini PTZ	SNP-C62345H	"$3,850"				
+	154	Hanwha Vision (Wisenet)	Turrón (Box)	SNB-6004	$425				
+	155	Hanwha Vision (Wisenet)	Turrón (Box)	SNB-7004	$640				
+	156	Hanwha Vision (Wisenet)	Turrón (Box)	SNB-8004	$850				
+	157	Hanwha Vision (Wisenet)	Turrón (Box)	PNB-A73051	"$1,275"				
+	158	Hanwha Vision (Wisenet)	Turrón (Box)	SNB-C74043BF	"$1,870"				
+	159	Hanwha Vision (Wisenet)	Ojo de Pez (Fisheye)	XNF-8010RW	$445				
+	160	Hanwha Vision (Wisenet)	Ojo de Pez (Fisheye)	XNF-8010ZM	$670				
+	161	Hanwha Vision (Wisenet)	Ojo de Pez (Fisheye)	XNF-9010RW	$890				
+	162	Hanwha Vision (Wisenet)	Ojo de Pez (Fisheye)	PNF-9010RV	"$1,335"				
+	163	Hanwha Vision (Wisenet)	Ojo de Pez (Fisheye)	XNF-C9083RW	"$1,960"				
+	164	Hanwha Vision (Wisenet)	Multisensor / Panorámica	PNM-9022V	"$1,200"				
+	165	Hanwha Vision (Wisenet)	Multisensor / Panorámica	PNM-9020V	"$1,800"				
+	166	Hanwha Vision (Wisenet)	Multisensor / Panorámica	PNM-9320VQP	"$2,400"				
+	167	Hanwha Vision (Wisenet)	Multisensor / Panorámica	PNM-9322VQP	"$3,600"				
+	168	Hanwha Vision (Wisenet)	Multisensor / Panorámica	PNM-C34404RQPZ	"$5,280"				
+	169	Hanwha Vision (Wisenet)	Oculta (Pinhole)	No disponible en portafolio					
+	170	Hanwha Vision (Wisenet)	Térmica	XNT-6800 (384 × 288)	"$2,450"				
+	171	Hanwha Vision (Wisenet)	Térmica	XNT-6800 (640 × 480)	"$3,675"				
+	172	Hanwha Vision (Wisenet)	Térmica	TNO-4040TLP	"$4,900"				
+	173	Hanwha Vision (Wisenet)	Térmica	TNO-7180RLP	"$7,350"				
+	174	Hanwha Vision (Wisenet)	Térmica	TNO-C80D-TLP	"$10,780"				
+	175	Hanwha Vision (Wisenet)	LPR (Matrículas)	XNO-6083R (ANPR)	$190				
+	176	Hanwha Vision (Wisenet)	LPR (Matrículas)	XNO-L6083R (ANPR)	$285				
+	177	Hanwha Vision (Wisenet)	LPR (Matrículas)	XNO-C6083R (ANPR)	$380				
+	178	Hanwha Vision (Wisenet)	LPR (Matrículas)	TNO-7180RLP	$570				
+	179	Hanwha Vision (Wisenet)	LPR (Matrículas)	PNM-C34404RQPZ (ANPR)	$835				
+	180	Hanwha Vision (Wisenet)	Dual-Lente	PNM-9022V	$750				
+	181	Hanwha Vision (Wisenet)	Dual-Lente	PNM-9320VQP	"$1,125"				
+	182	Hanwha Vision (Wisenet)	Dual-Lente	PNM-9322VQP	"$1,500"				
+	183	Hanwha Vision (Wisenet)	Dual-Lente	PNM-C34404RQPZ	"$2,250"				
+	184	Hanwha Vision (Wisenet)	Dual-Lente	PNM-C54404RQPZ	"$3,300"				
+	185	Hanwha Vision (Wisenet)	IA Integrada	XND-6081RV (WiseAI)	$360				
+	186	Hanwha Vision (Wisenet)	IA Integrada	XNV-L6083R (WiseAI)	$540				
+	187	Hanwha Vision (Wisenet)	IA Integrada	XNO-L6083R (WiseAI)	$720				
+	188	Hanwha Vision (Wisenet)	IA Integrada	PNV-A6081R (WiseAI)	"$1,080"				
+	189	Hanwha Vision (Wisenet)	IA Integrada	PNV-A9081R (WiseAI)	"$1,585"				
+	190	Hanwha Vision (Wisenet)	Interior WiFi	Wisenet WEM-1W	$45				
+	191	Hanwha Vision (Wisenet)	Interior WiFi	SNH-V6431BN SmartCam	$65				
+	192	Hanwha Vision (Wisenet)	Interior WiFi	SNH-V6410PN SmartCam	$90				
+	193	Hanwha Vision (Wisenet)	Interior WiFi	SNH-E6413BN SmartCam	$135				
+	194	Hanwha Vision (Wisenet)	Interior WiFi	Wisenet X Plus WiFi	$195				
+	195	Avigilon (Motorola)	Domo	H4A-D1	$390				
+	196	Avigilon (Motorola)	Domo	H5A-D1	$585				
+	197	Avigilon (Motorola)	Domo	H5A-DZ	$780				
+	198	Avigilon (Motorola)	Domo	H6A-DP1	"$1,170"				
+	199	Avigilon (Motorola)	Domo	H6X-D1	"$1,715"				
+	200	Avigilon (Motorola)	Domo Antivandálica	H4A-DO1	$390				
+	201	Avigilon (Motorola)	Domo Antivandálica	H5A-DO1-IR	$585				
+	202	Avigilon (Motorola)	Domo Antivandálica	H5A-DOB1-IR	$780				
+	203	Avigilon (Motorola)	Domo Antivandálica	H6A-DO1-IR	"$1,170"				
+	204	Avigilon (Motorola)	Domo Antivandálica	H6X-DO1-IR	"$1,715"				
+	205	Avigilon (Motorola)	Bala	H4A-B1	$360				
+	206	Avigilon (Motorola)	Bala	H5A-B1	$540				
+	207	Avigilon (Motorola)	Bala	H5A-BB1	$720				
+	208	Avigilon (Motorola)	Bala	H6A-B1	"$1,080"				
+	209	Avigilon (Motorola)	Bala	H6X-B1	"$1,585"				
+	210	Avigilon (Motorola)	PTZ	H4-PTZ	"$2,100"				
+	211	Avigilon (Motorola)	PTZ	H5A-PTZ	"$3,150"				
+	212	Avigilon (Motorola)	PTZ	H5A-PTZ-A	"$4,200"				
+	213	Avigilon (Motorola)	PTZ	H5A-PTZ-AC	"$6,300"				
+	214	Avigilon (Motorola)	PTZ	H6A-PTZ-AC	"$9,240"				
+	215	Avigilon (Motorola)	Mini PTZ	No disponible en portafolio					
+	216	Avigilon (Motorola)	Turrón (Box)	No disponible en portafolio					
+	217	Avigilon (Motorola)	Ojo de Pez (Fisheye)	H4-FE	$475				
+	218	Avigilon (Motorola)	Ojo de Pez (Fisheye)	H5A-FE	$710				
+	219	Avigilon (Motorola)	Ojo de Pez (Fisheye)	H5A-FEB	$950				
+	220	Avigilon (Motorola)	Ojo de Pez (Fisheye)	H6A-FE	"$1,425"				
+	221	Avigilon (Motorola)	Ojo de Pez (Fisheye)	H6A-FEB	"$2,090"				
+	222	Avigilon (Motorola)	Multisensor / Panorámica	H4-M2	"$1,400"				
+	223	Avigilon (Motorola)	Multisensor / Panorámica	H5A-M1	"$2,100"				
+	224	Avigilon (Motorola)	Multisensor / Panorámica	H5A-M2	"$2,800"				
+	225	Avigilon (Motorola)	Multisensor / Panorámica	H5A-M3	"$4,200"				
+	226	Avigilon (Motorola)	Multisensor / Panorámica	H6A-M4	"$6,160"				
+	227	Avigilon (Motorola)	Oculta (Pinhole)	No disponible en portafolio					
+	228	Avigilon (Motorola)	Térmica	H4-THR	"$3,250"				
+	229	Avigilon (Motorola)	Térmica	H5A-THR-DZ1	"$4,875"				
+	230	Avigilon (Motorola)	Térmica	H5A-THR-B1	"$6,500"				
+	231	Avigilon (Motorola)	Térmica	H6A-THR-DZ1	"$9,750"				
+	232	Avigilon (Motorola)	Térmica	H6A-THR-B2	"$14,300"				
+	233	Avigilon (Motorola)	LPR (Matrículas)	H4-LPR	$750				
+	234	Avigilon (Motorola)	LPR (Matrículas)	H5A-LPR-1	"$1,125"				
+	235	Avigilon (Motorola)	LPR (Matrículas)	H5A-LPR-2	"$1,500"				
+	236	Avigilon (Motorola)	LPR (Matrículas)	H5A-LPR-3	"$2,250"				
+	237	Avigilon (Motorola)	LPR (Matrículas)	H6A-LPR-4	"$3,300"				
+	238	Avigilon (Motorola)	Dual-Lente	No disponible en portafolio					
+	239	Avigilon (Motorola)	IA Integrada	H5A-DZ	$445				
+	240	Avigilon (Motorola)	IA Integrada	H6A-DP1	$670				
+	241	Avigilon (Motorola)	IA Integrada	H6A-B2	$890				
+	242	Avigilon (Motorola)	IA Integrada	H6X-D1	"$1,335"				
+	243	Avigilon (Motorola)	IA Integrada	H6X-B2	"$1,960"				
+	244	Avigilon (Motorola)	Interior WiFi	No disponible en portafolio					
+	245	Pelco (Motorola)	Domo	IME219-1IS	$345				
+	246	Pelco (Motorola)	Domo	IME319-1IS	$520				
+	247	Pelco (Motorola)	Domo	IME419-1IS	$690				
+	248	Pelco (Motorola)	Domo	IME619-1IS	"$1,035"				
+	249	Pelco (Motorola)	Domo	IME819-1IS	"$1,520"				
+	250	Pelco (Motorola)	Domo Antivandálica	IME219-1IV	$270				
+	251	Pelco (Motorola)	Domo Antivandálica	IME319-1IV	$405				
+	252	Pelco (Motorola)	Domo Antivandálica	IME419-1IV	$540				
+	253	Pelco (Motorola)	Domo Antivandálica	IME619-1IV	$810				
+	254	Pelco (Motorola)	Domo Antivandálica	IME819-1IV	"$1,190"				
+	255	Pelco (Motorola)	Bala	IBE219-1I	$320				
+	256	Pelco (Motorola)	Bala	IBE319-1I	$480				
+	257	Pelco (Motorola)	Bala	IBE419-1I	$640				
+	258	Pelco (Motorola)	Bala	IBE619-1I	$960				
+	259	Pelco (Motorola)	Bala	IBE819-1I	"$1,410"				
+	260	Pelco (Motorola)	PTZ	S6130-L	"$1,900"				
+	261	Pelco (Motorola)	PTZ	S6230-L	"$2,850"				
+	262	Pelco (Motorola)	PTZ	S6330-L	"$3,800"				
+	263	Pelco (Motorola)	PTZ	S6430-L	"$5,700"				
+	264	Pelco (Motorola)	PTZ	S6C-L	"$8,360"				
+	265	Pelco (Motorola)	Mini PTZ	Spectra Mini IP MS	"$1,050"				
+	266	Pelco (Motorola)	Mini PTZ	Spectra Mini IP IR	"$1,575"				
+	267	Pelco (Motorola)	Mini PTZ	Spectra Mini IP IR LED	"$2,100"				
+	268	Pelco (Motorola)	Mini PTZ	Spectra Mini IP 2MP IR	"$3,150"				
+	269	Pelco (Motorola)	Mini PTZ	Spectra Enhanced Mini	"$4,620"				
+	270	Pelco (Motorola)	Turrón (Box)	No disponible en portafolio					
+	271	Pelco (Motorola)	Ojo de Pez (Fisheye)	IFE109	$475				
+	272	Pelco (Motorola)	Ojo de Pez (Fisheye)	IFE209	$710				
+	273	Pelco (Motorola)	Ojo de Pez (Fisheye)	IFE309	$950				
+	274	Pelco (Motorola)	Ojo de Pez (Fisheye)	IFE409	"$1,425"				
+	275	Pelco (Motorola)	Ojo de Pez (Fisheye)	IFE509	"$2,090"				
+	276	Pelco (Motorola)	Multisensor / Panorámica	IME219-4MS	"$2,100"				
+	277	Pelco (Motorola)	Multisensor / Panorámica	IME319-4MS	"$3,150"				
+	278	Pelco (Motorola)	Multisensor / Panorámica	IME419-4MS	"$4,200"				
+	279	Pelco (Motorola)	Multisensor / Panorámica	IME619-4MS	"$6,300"				
+	280	Pelco (Motorola)	Multisensor / Panorámica	IME819-4MS	"$9,240"				
+	281	Pelco (Motorola)	Oculta (Pinhole)	No disponible en portafolio					
+	282	Pelco (Motorola)	Térmica	Sarix ITS-100	"$2,900"				
+	283	Pelco (Motorola)	Térmica	Sarix ITS-200	"$4,350"				
+	284	Pelco (Motorola)	Térmica	Sarix ITS-400	"$5,800"				
+	285	Pelco (Motorola)	Térmica	ExSite Enhanced Thermal	"$8,700"				
+	286	Pelco (Motorola)	Térmica	Sarix Thermal 640	"$12,760"				
+	287	Pelco (Motorola)	LPR (Matrículas)	No disponible en portafolio					
+	288	Pelco (Motorola)	Dual-Lente	No disponible en portafolio					
+	289	Pelco (Motorola)	IA Integrada	IME619 (Sarix 4)	$360				
+	290	Pelco (Motorola)	IA Integrada	IME819 (Sarix 4)	$540				
+	291	Pelco (Motorola)	IA Integrada	IBE819 (Sarix 4)	$720				
+	292	Pelco (Motorola)	IA Integrada	S6C-L (Sarix 4)	"$1,080"				
+	293	Pelco (Motorola)	IA Integrada	IFE509 (Sarix 4)	"$1,585"				
+	294	Pelco (Motorola)	Interior WiFi	No disponible en portafolio					
+	295	Honeywell Security	Domo	HBD6PR1	$160				
+	296	Honeywell Security	Domo	HBD8PR3	$240				
+	297	Honeywell Security	Domo	H2W2PRV2	$320				
+	298	Honeywell Security	Domo	H2W4PER3	$480				
+	299	Honeywell Security	Domo	H4D10PRV	$705				
+	300	Honeywell Security	Domo Antivandálica	HBD2PRV1	$120				
+	301	Honeywell Security	Domo Antivandálica	HBD6PRV3	$180				
+	302	Honeywell Security	Domo Antivandálica	H2W2PRV2	$240				
+	303	Honeywell Security	Domo Antivandálica	H2W4PRV3	$360				
+	304	Honeywell Security	Domo Antivandálica	H4D10PRV	$530				
+	305	Honeywell Security	Bala	HC30W45R3	$150				
+	306	Honeywell Security	Bala	HC50W45R3	$225				
+	307	Honeywell Security	Bala	H2W4PER3	$300				
+	308	Honeywell Security	Bala	H4W8PER3	$450				
+	309	Honeywell Security	Bala	H4W10PERV	$660				
+	310	Honeywell Security	PTZ	H2S-PTZ	$700				
+	311	Honeywell Security	PTZ	H4S-PTZ	"$1,050"				
+	312	Honeywell Security	PTZ	H6S-PTZ	"$1,400"				
+	313	Honeywell Security	PTZ	H8S-PTZ	"$2,100"				
+	314	Honeywell Security	PTZ	H10S-PTZ	"$3,080"				
+	315	Honeywell Security	Mini PTZ	No disponible en portafolio					
+	316	Honeywell Security	Turrón (Box)	HC30WB5R3	$140				
+	317	Honeywell Security	Turrón (Box)	HC50WB5R3	$210				
+	318	Honeywell Security	Turrón (Box)	H2D3PRV	$280				
+	319	Honeywell Security	Turrón (Box)	H4D8PRV	$420				
+	320	Honeywell Security	Turrón (Box)	H4D10PRV	$615				
+	321	Honeywell Security	Ojo de Pez (Fisheye)	No disponible en portafolio					
+	322	Honeywell Security	Multisensor / Panorámica	No disponible en portafolio					
+	323	Honeywell Security	Oculta (Pinhole)	No disponible en portafolio					
+	324	Honeywell Security	Térmica	No disponible en portafolio					
+	325	Honeywell Security	LPR (Matrículas)	No disponible en portafolio					
+	326	Honeywell Security	Dual-Lente	No disponible en portafolio					
+	327	Honeywell Security	IA Integrada	H4D10PRV	$165				
+	328	Honeywell Security	IA Integrada	H4W8PER3	$250				
+	329	Honeywell Security	IA Integrada	H8W8PER3	$330				
+	330	Honeywell Security	IA Integrada	H8D10PRV	$495				
+	331	Honeywell Security	IA Integrada	H10D12PRV	$725				
+	332	Honeywell Security	Interior WiFi	Resideo C1 WI	$65				
+	333	Honeywell Security	Interior WiFi	Resideo C2 WI	$95				
+	334	Honeywell Security	Interior WiFi	Resideo VistaCam 700	$130				
+	335	Honeywell Security	Interior WiFi	VistaCam 1200	$195				
+	336	Honeywell Security	Interior WiFi	VistaCam 360	$285				
+	337	MOBOTIX	Domo	D16B	$495				
+	338	MOBOTIX	Domo	D16M	$740				
+	339	MOBOTIX	Domo	D73B	$990				
+	340	MOBOTIX	Domo	D73M	"$1,485"				
+	341	MOBOTIX	Domo	P26M	"$2,180"				
+	342	MOBOTIX	Domo Antivandálica	P25M	$545				
+	343	MOBOTIX	Domo Antivandálica	P26B	$820				
+	344	MOBOTIX	Domo Antivandálica	P26M	"$1,090"				
+	345	MOBOTIX	Domo Antivandálica	D73B	"$1,635"				
+	346	MOBOTIX	Domo Antivandálica	D73M	"$2,400"				
+	347	MOBOTIX	Bala	M16B	$645				
+	348	MOBOTIX	Bala	M16M	$970				
+	349	MOBOTIX	Bala	M16M-IR	"$1,290"				
+	350	MOBOTIX	Bala	M73B	"$1,935"				
+	351	MOBOTIX	Bala	M73M	"$2,840"				
+	352	MOBOTIX	PTZ	S16B	$995				
+	353	MOBOTIX	PTZ	S16M	"$1,490"				
+	354	MOBOTIX	PTZ	S74B	"$1,990"				
+	355	MOBOTIX	PTZ	S74M	"$2,985"				
+	356	MOBOTIX	PTZ	M16B (PTZ virtual)	"$4,380"				
+	357	MOBOTIX	Mini PTZ	No disponible en portafolio					
+	358	MOBOTIX	Turrón (Box)	M15B	$595				
+	359	MOBOTIX	Turrón (Box)	M15M	$890				
+	360	MOBOTIX	Turrón (Box)	M15B-IR	"$1,190"				
+	361	MOBOTIX	Turrón (Box)	M15M-IR	"$1,785"				
+	362	MOBOTIX	Turrón (Box)	S16M (módulos C/CS)	"$2,620"				
+	363	MOBOTIX	Ojo de Pez (Fisheye)	Q24M	$445				
+	364	MOBOTIX	Ojo de Pez (Fisheye)	Q25M	$670				
+	365	MOBOTIX	Ojo de Pez (Fisheye)	Q26B	$890				
+	366	MOBOTIX	Ojo de Pez (Fisheye)	Q26M	"$1,335"				
+	367	MOBOTIX	Ojo de Pez (Fisheye)	Q38B	"$1,960"				
+	368	MOBOTIX	Multisensor / Panorámica	M16B (2 módulos)	$470				
+	369	MOBOTIX	Multisensor / Panorámica	M16M (2 módulos)	$705				
+	370	MOBOTIX	Multisensor / Panorámica	S16B (2 módulos)	$940				
+	371	MOBOTIX	Multisensor / Panorámica	S16M (2 módulos)	"$1,410"				
+	372	MOBOTIX	Multisensor / Panorámica	S74M (4 módulos)	"$2,070"				
+	373	MOBOTIX	Oculta (Pinhole)	No disponible en portafolio					
+	374	MOBOTIX	Térmica	M16B-T	"$3,450"				
+	375	MOBOTIX	Térmica	M16M-T	"$5,175"				
+	376	MOBOTIX	Térmica	M73B-T	"$6,900"				
+	377	MOBOTIX	Térmica	M73M-T	"$10,350"				
+	378	MOBOTIX	Térmica	S16M-T	"$15,180"				
+	379	MOBOTIX	LPR (Matrículas)	No disponible en portafolio					
+	380	MOBOTIX	Dual-Lente	D15Di	$745				
+	381	MOBOTIX	Dual-Lente	D16B	"$1,120"				
+	382	MOBOTIX	Dual-Lente	D16M	"$1,490"				
+	383	MOBOTIX	Dual-Lente	S16B	"$2,235"				
+	384	MOBOTIX	Dual-Lente	S16M	"$3,280"				
+	385	MOBOTIX	IA Integrada	D73B (MxAnalytics)	$795				
+	386	MOBOTIX	IA Integrada	D73M (MxAnalytics)	"$1,190"				
+	387	MOBOTIX	IA Integrada	M73B (MxAnalytics)	"$1,590"				
+	388	MOBOTIX	IA Integrada	M73M (MxAnalytics)	"$2,385"				
+	389	MOBOTIX	IA Integrada	Q38M (MxAnalytics)	"$3,500"				
+	390	MOBOTIX	Interior WiFi	No disponible en portafolio					
+	391	Vivotek	Domo	FD9367-EHTV	$155				
+	392	Vivotek	Domo	FD9371-HTV	$230				
+	393	Vivotek	Domo	FD9380-HV	$310				
+	394	Vivotek	Domo	FD9381-HTV	$465				
+	395	Vivotek	Domo	FD9391-EHTV	$680				
+	396	Vivotek	Domo Antivandálica	FD9380-HV	$170				
+	397	Vivotek	Domo Antivandálica	FD9381-HTV	$255				
+	398	Vivotek	Domo Antivandálica	FD9365-EHTV	$340				
+	399	Vivotek	Domo Antivandálica	FD9380-ETV	$510				
+	400	Vivotek	Domo Antivandálica	FD9390-EHTV	$750				
+	401	Vivotek	Bala	IB9380-H	$150				
+	402	Vivotek	Bala	IB9381-HT	$225				
+	403	Vivotek	Bala	IB9365-EHT	$300				
+	404	Vivotek	Bala	IB9391-EHT	$450				
+	405	Vivotek	Bala	IB9390-EHT	$660				
+	406	Vivotek	PTZ	SD9161-H	$725				
+	407	Vivotek	PTZ	SD9364-X	"$1,090"				
+	408	Vivotek	PTZ	SD9364-RL X	"$1,450"				
+	409	Vivotek	PTZ	SD9366-RL X	"$2,175"				
+	410	Vivotek	PTZ	SD9424-T	"$3,190"				
+	411	Vivotek	Mini PTZ	SD9361-SS	$345				
+	412	Vivotek	Mini PTZ	SD9362-EH	$520				
+	413	Vivotek	Mini PTZ	SD9363-EH	$690				
+	414	Vivotek	Mini PTZ	SD9362-EHT	"$1,035"				
+	415	Vivotek	Mini PTZ	SD9363-EHT	"$1,520"				
+	416	Vivotek	Turrón (Box)	IB8369A	$260				
+	417	Vivotek	Turrón (Box)	IB9360-HT	$390				
+	418	Vivotek	Turrón (Box)	IP9160-HT	$520				
+	419	Vivotek	Turrón (Box)	IP9171-HP	$780				
+	420	Vivotek	Turrón (Box)	IP9191-HP	"$1,145"				
+	421	Vivotek	Ojo de Pez (Fisheye)	FE9180-H	$310				
+	422	Vivotek	Ojo de Pez (Fisheye)	FE9181-HT	$465				
+	423	Vivotek	Ojo de Pez (Fisheye)	FE9380-HV	$620				
+	424	Vivotek	Ojo de Pez (Fisheye)	FE9381-HTV	$930				
+	425	Vivotek	Ojo de Pez (Fisheye)	FE9391-EHV	"$1,365"				
+	426	Vivotek	Multisensor / Panorámica	MS8391-EV	"$1,100"				
+	427	Vivotek	Multisensor / Panorámica	MS9381-HV	"$1,650"				
+	428	Vivotek	Multisensor / Panorámica	MS9390-HV	"$2,200"				
+	429	Vivotek	Multisensor / Panorámica	MS9390-HVT	"$3,300"				
+	430	Vivotek	Multisensor / Panorámica	MS9390-EHVT	"$4,840"				
+	431	Vivotek	Oculta (Pinhole)	No disponible en portafolio					
+	432	Vivotek	Térmica	ST8213	"$2,400"				
+	433	Vivotek	Térmica	ST8213-ER	"$3,600"				
+	434	Vivotek	Térmica	ST8211	"$4,800"				
+	435	Vivotek	Térmica	ST8215	"$7,200"				
+	436	Vivotek	Térmica	ST8313W	"$10,560"				
+	437	Vivotek	LPR (Matrículas)	IP9171-HP (LPR)	$240				
+	438	Vivotek	LPR (Matrículas)	IP9191-HP (LPR)	$360				
+	439	Vivotek	LPR (Matrículas)	IB9360-HT (LPR)	$480				
+	440	Vivotek	LPR (Matrículas)	IP9160-HT (LPR)	$720				
+	441	Vivotek	LPR (Matrículas)	SD9364-X (LPR)	"$1,055"				
+	442	Vivotek	Dual-Lente	No disponible en portafolio					
+	443	Vivotek	IA Integrada	FD9381-HTV (VADP)	$190				
+	444	Vivotek	IA Integrada	IB9381-HT (VADP)	$285				
+	445	Vivotek	IA Integrada	SD9364-X (VADP)	$380				
+	446	Vivotek	IA Integrada	FE9391-EHV (VADP)	$570				
+	447	Vivotek	IA Integrada	IP9191-HP (VADP)	$835				
+	448	Vivotek	Interior WiFi	No disponible en portafolio					
+	449	IDIS	Domo	DC-D3612R	$130				
+	450	IDIS	Domo	DC-D4612R	$195				
+	451	IDIS	Domo	DC-D4612RX	$260				
+	452	IDIS	Domo	DC-D4613RX	$390				
+	453	IDIS	Domo	DC-D8613R	$570				
+	454	IDIS	Domo Antivandálica	DC-D3612RX	$135				
+	455	IDIS	Domo Antivandálica	DC-D4612RX	$200				
+	456	IDIS	Domo Antivandálica	DC-D4613RX	$270				
+	457	IDIS	Domo Antivandálica	DC-D8613RX	$405				
+	458	IDIS	Domo Antivandálica	DC-D8623RX	$595				
+	459	IDIS	Bala	DC-T3612R	$125				
+	460	IDIS	Bala	DC-T4612R	$190				
+	461	IDIS	Bala	DC-T4613RX	$250				
+	462	IDIS	Bala	DC-T8613RX	$375				
+	463	IDIS	Bala	DC-T8623R	$550				
+	464	IDIS	PTZ	DC-Y3612R	$575				
+	465	IDIS	PTZ	DC-Y4613R	$860				
+	466	IDIS	PTZ	DC-Y8113R	"$1,150"				
+	467	IDIS	PTZ	DC-Y8613R	"$1,725"				
+	468	IDIS	PTZ	DC-Y8623R	"$2,530"				
+	469	IDIS	Mini PTZ	No disponible en portafolio					
+	470	IDIS	Turrón (Box)	No disponible en portafolio					
+	471	IDIS	Ojo de Pez (Fisheye)	DC-N3612R	$150				
+	472	IDIS	Ojo de Pez (Fisheye)	DC-N4612R	$225				
+	473	IDIS	Ojo de Pez (Fisheye)	DC-N8612R	$300				
+	474	IDIS	Ojo de Pez (Fisheye)	DC-N8613R	$450				
+	475	IDIS	Ojo de Pez (Fisheye)	DC-N8623R	$660				
+	476	IDIS	Multisensor / Panorámica	No disponible en portafolio					
+	477	IDIS	Oculta (Pinhole)	No disponible en portafolio					
+	478	IDIS	Térmica	No disponible en portafolio					
+	479	IDIS	LPR (Matrículas)	DC-T3612R (LPR)	$160				
+	480	IDIS	LPR (Matrículas)	DC-T4612R (LPR)	$240				
+	481	IDIS	LPR (Matrículas)	DC-T4613RX (LPR)	$320				
+	482	IDIS	LPR (Matrículas)	DC-T8613RX (LPR)	$480				
+	483	IDIS	LPR (Matrículas)	DC-T8623R (LPR)	$705				
+	484	IDIS	Dual-Lente	No disponible en portafolio					
+	485	IDIS	IA Integrada	DC-D4613RX (IA)	$225				
+	486	IDIS	IA Integrada	DC-T4613RX (IA)	$340				
+	487	IDIS	IA Integrada	DC-Y8113R (IA)	$450				
+	488	IDIS	IA Integrada	DC-N8613R (IA)	$675				
+	489	IDIS	IA Integrada	DC-D8623RX (IA)	$990				
+	490	IDIS	Interior WiFi	No disponible en portafolio					
+	491	Verkada	Domo	CD41	$325				
+	492	Verkada	Domo	CD42	$485				
+	493	Verkada	Domo	CD43	$650				
+	494	Verkada	Domo	CD52	$975				
+	495	Verkada	Domo	CD62	"$1,430"				
+	496	Verkada	Domo Antivandálica	CD42-E	$400				
+	497	Verkada	Domo Antivandálica	CD43-E	$600				
+	498	Verkada	Domo Antivandálica	CD52-E	$800				
+	499	Verkada	Domo Antivandálica	CD62-E	"$1,200"				
+	500	Verkada	Domo Antivandálica	CD63-E	"$1,760"				
+	501	Verkada	Bala	CB41	$350				
+	502	Verkada	Bala	CB51	$525				
+	503	Verkada	Bala	CB52	$700				
+	504	Verkada	Bala	CB61	"$1,050"				
+	505	Verkada	Bala	CB62	"$1,540"				
+	506	Verkada	PTZ	No disponible en portafolio					
+	507	Verkada	Mini PTZ	No disponible en portafolio					
+	508	Verkada	Turrón (Box)	No disponible en portafolio					
+	509	Verkada	Ojo de Pez (Fisheye)	CF41-E	$425				
+	510	Verkada	Ojo de Pez (Fisheye)	CF61-E	$635				
+	511	Verkada	Ojo de Pez (Fisheye)	CF71-E	$850				
+	512	Verkada	Ojo de Pez (Fisheye)	CF81	"$1,275"				
+	513	Verkada	Ojo de Pez (Fisheye)	CF81-E	"$1,870"				
+	514	Verkada	Multisensor / Panorámica	No disponible en portafolio					
+	515	Verkada	Oculta (Pinhole)	No disponible en portafolio					
+	516	Verkada	Térmica	No disponible en portafolio					
+	517	Verkada	LPR (Matrículas)	CD62-LPR	$350				
+	518	Verkada	LPR (Matrículas)	CD62-LPR-E	$525				
+	519	Verkada	LPR (Matrículas)	CB62-LPR	$700				
+	520	Verkada	LPR (Matrículas)	CB62-LPR-E	"$1,050"				
+	521	Verkada	LPR (Matrículas)	CB63-LPR	"$1,540"				
+	522	Verkada	Dual-Lente	No disponible en portafolio					
+	523	Verkada	IA Integrada	CD62	$300				
+	524	Verkada	IA Integrada	CD63	$450				
+	525	Verkada	IA Integrada	CB62	$600				
+	526	Verkada	IA Integrada	CB63	$900				
+	527	Verkada	IA Integrada	CF81-E	"$1,320"				
+	528	Verkada	Interior WiFi	No disponible en portafolio					
+	529	Ubiquiti (UniFi Protect)	Domo	G3 Dome	$100				
+	530	Ubiquiti (UniFi Protect)	Domo	G4 Dome	$150				
+	531	Ubiquiti (UniFi Protect)	Domo	G5 Dome	$200				
+	532	Ubiquiti (UniFi Protect)	Domo	AI Dome	$300				
+	533	Ubiquiti (UniFi Protect)	Domo	AI Dome Pro	$440				
+	534	Ubiquiti (UniFi Protect)	Domo Antivandálica	G4 Dome	$100				
+	535	Ubiquiti (UniFi Protect)	Domo Antivandálica	G4 Dome Pro	$150				
+	536	Ubiquiti (UniFi Protect)	Domo Antivandálica	G5 Dome	$200				
+	537	Ubiquiti (UniFi Protect)	Domo Antivandálica	AI Dome	$300				
+	538	Ubiquiti (UniFi Protect)	Domo Antivandálica	AI Dome Pro	$440				
+	539	Ubiquiti (UniFi Protect)	Bala	G3 Bullet	$100				
+	540	Ubiquiti (UniFi Protect)	Bala	G4 Bullet	$150				
+	541	Ubiquiti (UniFi Protect)	Bala	G5 Bullet	$200				
+	542	Ubiquiti (UniFi Protect)	Bala	G4 Pro	$300				
+	543	Ubiquiti (UniFi Protect)	Bala	G5 Pro	$440				
+	544	Ubiquiti (UniFi Protect)	PTZ	G4 PTZ	$350				
+	545	Ubiquiti (UniFi Protect)	PTZ	G5 PTZ	$525				
+	546	Ubiquiti (UniFi Protect)	PTZ	AI PTZ	$700				
+	547	Ubiquiti (UniFi Protect)	PTZ	AI PTZ Pro	"$1,050"				
+	548	Ubiquiti (UniFi Protect)	PTZ	AI PTZ Ultra	"$1,540"				
+	549	Ubiquiti (UniFi Protect)	Mini PTZ	No disponible en portafolio					
+	550	Ubiquiti (UniFi Protect)	Turrón (Box)	No disponible en portafolio					
+	551	Ubiquiti (UniFi Protect)	Ojo de Pez (Fisheye)	G4 Fisheye	$125				
+	552	Ubiquiti (UniFi Protect)	Ojo de Pez (Fisheye)	AI 360	$185				
+	553	Ubiquiti (UniFi Protect)	Ojo de Pez (Fisheye)	AI 360 Pro	$250				
+	554	Ubiquiti (UniFi Protect)	Ojo de Pez (Fisheye)	AI Theta 360	$375				
+	555	Ubiquiti (UniFi Protect)	Ojo de Pez (Fisheye)	AI Theta 360 Pro	$550				
+	556	Ubiquiti (UniFi Protect)	Multisensor / Panorámica	No disponible en portafolio					
+	557	Ubiquiti (UniFi Protect)	Oculta (Pinhole)	No disponible en portafolio					
+	558	Ubiquiti (UniFi Protect)	Térmica	No disponible en portafolio					
+	559	Ubiquiti (UniFi Protect)	LPR (Matrículas)	No disponible en portafolio					
+	560	Ubiquiti (UniFi Protect)	Dual-Lente	No disponible en portafolio					
+	561	Ubiquiti (UniFi Protect)	IA Integrada	AI Pro	$200				
+	562	Ubiquiti (UniFi Protect)	IA Integrada	AI Key	$300				
+	563	Ubiquiti (UniFi Protect)	IA Integrada	AI Theta Pro	$400				
+	564	Ubiquiti (UniFi Protect)	IA Integrada	AI 360	$600				
+	565	Ubiquiti (UniFi Protect)	IA Integrada	AI XG	$880				
+	566	Ubiquiti (UniFi Protect)	Interior WiFi	No disponible en portafolio					
+	567	Hikvision	Domo	DS-2CD2111G-I	$50				
+	568	Hikvision	Domo	DS-2CD2121G0-I	$70				
+	569	Hikvision	Domo	DS-2CD2131G0-I	$95				
+	570	Hikvision	Domo	DS-2CD2143G0-I	$140				
+	571	Hikvision	Domo	DS-2CD2155FWD-I	$210				
+	572	Hikvision	Domo Antivandálica	DS-2CD2723G0-IZS	$80				
+	573	Hikvision	Domo Antivandálica	DS-2CD2743G0-IZS	$125				
+	574	Hikvision	Domo Antivandálica	DS-2CD2755FWD-IZS	$165				
+	575	Hikvision	Domo Antivandálica	DS-2CD2785G0-IZS	$250				
+	576	Hikvision	Domo Antivandálica	DS-2CD2767G2-IZS	$365				
+	577	Hikvision	Bala	DS-2CD2012-I	$65				
+	578	Hikvision	Bala	DS-2CD2021G1-IDU1	$100				
+	579	Hikvision	Bala	DS-2CD2043G0-I	$130				
+	580	Hikvision	Bala	DS-2CD2055FWD-I	$195				
+	581	Hikvision	Bala	DS-2CD2087G2H-LU	$285				
+	582	Hikvision	PTZ	DS-2DE2A404IW-DE3	$210				
+	583	Hikvision	PTZ	DS-2DE4A425IW-DE	$315				
+	584	Hikvision	PTZ	DS-2DE5A425IW-AE	$420				
+	585	Hikvision	PTZ	DS-2DE7A432IW-AEB	$630				
+	586	Hikvision	PTZ	DS-2DF8A842IX-AEL	$925				
+	587	Hikvision	Mini PTZ	DS-2DE1A400W-DE3	$105				
+	588	Hikvision	Mini PTZ	DS-2DE2204IW-DE3/W	$160				
+	589	Hikvision	Mini PTZ	DS-2DE2A404IW-DE3	$210				
+	590	Hikvision	Mini PTZ	DS-2DE3304W-DE	$315				
+	591	Hikvision	Mini PTZ	DS-2DE4A425IW-DE	$460				
+	592	Hikvision	Turrón (Box)	DS-2CD6026FWD-A	$90				
+	593	Hikvision	Turrón (Box)	DS-2CD6035FWD-A	$140				
+	594	Hikvision	Turrón (Box)	DS-2CD6047FWD-A	$185				
+	595	Hikvision	Turrón (Box)	DS-2CD6055FWD-A	$280				
+	596	Hikvision	Turrón (Box)	DS-2CD6085FWD-A	$405				
+	597	Hikvision	Ojo de Pez (Fisheye)	DS-2CD6322FWD-IV	$140				
+	598	Hikvision	Ojo de Pez (Fisheye)	DS-2CD6332FWD-I	$210				
+	599	Hikvision	Ojo de Pez (Fisheye)	DS-2CD63C2F-IS	$280				
+	600	Hikvision	Ojo de Pez (Fisheye)	DS-2CD63C5G0-IU	$420				
+	601	Hikvision	Ojo de Pez (Fisheye)	DS-2CD63C7G0-IU	$615				
+	602	Hikvision	Multisensor / Panorámica	DS-2CD6424G0-10	$950				
+	603	Hikvision	Multisensor / Panorámica	DS-2CD6425G0E-10	"$1,425"				
+	604	Hikvision	Multisensor / Panorámica	DS-2CD6W425G0E-10	"$1,900"				
+	605	Hikvision	Multisensor / Panorámica	DS-2DP1636Z-D	"$2,850"				
+	606	Hikvision	Multisensor / Panorámica	DS-2DP2436Z-D	"$4,180"				
+	607	Hikvision	Oculta (Pinhole)	DS-2CD6412FWD-C	$75				
+	608	Hikvision	Oculta (Pinhole)	DS-2CD6422FWD-C	$110				
+	609	Hikvision	Oculta (Pinhole)	DS-2CD6412FWD-C/NF	$150				
+	610	Hikvision	Oculta (Pinhole)	DS-2CD6422FWD-C/NF	$225				
+	611	Hikvision	Oculta (Pinhole)	DS-2CD6422FWD-C/S	$330				
+	612	Hikvision	Térmica	DS-2TD1217B-3/PA	$725				
+	613	Hikvision	Térmica	DS-2TD1217-6/PA	"$1,090"				
+	614	Hikvision	Térmica	DS-2TD2617-10/PA	"$1,450"				
+	615	Hikvision	Térmica	DS-2TD2637-15/PA	"$2,175"				
+	616	Hikvision	Térmica	DS-2TD6668-25/PA	"$3,190"				
+	617	Hikvision	LPR (Matrículas)	DS-2CD4A26FWD-IZHS	$275				
+	618	Hikvision	LPR (Matrículas)	DS-2CD4A26FWD-IZHSP	$410				
+	619	Hikvision	LPR (Matrículas)	DS-2CD4A85FWD-IZHS	$550				
+	620	Hikvision	LPR (Matrículas)	DS-2CD4A85FWD-IZHSP	$825				
+	621	Hikvision	LPR (Matrículas)	iDS-2CD7A26G0/P-IZHS	"$1,210"				
+	622	Hikvision	Dual-Lente	DS-2SE4C432MW-DE	$310				
+	623	Hikvision	Dual-Lente	DS-2SE4C442MW-DE	$465				
+	624	Hikvision	Dual-Lente	DS-2SE6C432MW-DE	$620				
+	625	Hikvision	Dual-Lente	DS-2XS6A25G0-I/CH20S	$930				
+	626	Hikvision	Dual-Lente	DS-2XS6A75G0-I/CH20S	"$1,365"				
+	627	Hikvision	IA Integrada	DS-2CD2146G2-ISU	$240				
+	628	Hikvision	IA Integrada	DS-2CD2346G2-ISU	$360				
+	629	Hikvision	IA Integrada	DS-2CD2147G2H-LU	$480				
+	630	Hikvision	IA Integrada	DS-2CD2347G2H-LU	$720				
+	631	Hikvision	IA Integrada	DS-2CD2387G2H-LU	"$1,055"				
+	632	Hikvision	Interior WiFi	DS-2CD2423G0-W	$40				
+	633	Hikvision	Interior WiFi	DS-2CD2443G0-IW	$65				
+	634	Hikvision	Interior WiFi	DS-2CD2447G2H-LUY	$85				
+	635	Hikvision	Interior WiFi	DS-2CD2466G2-IW	$130				
+	636	Hikvision	Interior WiFi	DS-2CD2487G2H-LUY	$185				
+	637	Dahua Technology	Domo	DH-IPC-HDW1230T1-AS	$45				
+	638	Dahua Technology	Domo	DH-IPC-HDW1430T1-AS-S2	$65				
+	639	Dahua Technology	Domo	DH-IPC-HDW2431T1-AS-S2	$90				
+	640	Dahua Technology	Domo	DH-IPC-HDW3849H-AS-PV	$130				
+	641	Dahua Technology	Domo	DH-IPC-HDW5442T-ZE	$195				
+	642	Dahua Technology	Domo Antivandálica	DH-IPC-HDBW1230T1-AS-S2	$70				
+	643	Dahua Technology	Domo Antivandálica	DH-IPC-HDBW1430T1-AS-S2	$110				
+	644	Dahua Technology	Domo Antivandálica	DH-IPC-HDBW2431T1-AS-S2	$145				
+	645	Dahua Technology	Domo Antivandálica	DH-IPC-HDBW5442T-ZE	$220				
+	646	Dahua Technology	Domo Antivandálica	DH-IPC-HDBW5849H-1-AL	$320				
+	647	Dahua Technology	Bala	DH-IPC-HFW1230T1-AS	$50				
+	648	Dahua Technology	Bala	DH-IPC-HFW1430T1-AS-S2	$80				
+	649	Dahua Technology	Bala	DH-IPC-HFW2431T1-AS-S2	$105				
+	650	Dahua Technology	Bala	DH-IPC-HFW5442T-ZE	$160				
+	651	Dahua Technology	Bala	DH-IPC-HFW5849H-1-AL	$230				
+	652	Dahua Technology	PTZ	DH-SD29204T-GN-W	$390				
+	653	Dahua Technology	PTZ	DH-SD49225XA-HNR	$585				
+	654	Dahua Technology	PTZ	DH-SD5A445XA-HNR	$780				
+	655	Dahua Technology	PTZ	DH-SD6AL845XA-HNR	"$1,170"				
+	656	Dahua Technology	PTZ	DH-SD7A845GA-HNR	"$1,715"				
+	657	Dahua Technology	Mini PTZ	DH-SD1A404XB-GNR-A	$130				
+	658	Dahua Technology	Mini PTZ	DH-SD22404T-GN-W	$195				
+	659	Dahua Technology	Mini PTZ	DH-SD29204T-GN-W	$260				
+	660	Dahua Technology	Mini PTZ	DH-SD29404T-GN-W	$390				
+	661	Dahua Technology	Mini PTZ	DH-SD3A404TN-GN-PV	$570				
+	662	Dahua Technology	Turrón (Box)	DH-IPC-HF5242E	$95				
+	663	Dahua Technology	Turrón (Box)	DH-IPC-HF5543E	$140				
+	664	Dahua Technology	Turrón (Box)	DH-IPC-HF82350E	$190				
+	665	Dahua Technology	Turrón (Box)	DH-IPC-HF82450E	$285				
+	666	Dahua Technology	Turrón (Box)	DH-IPC-HF84450E	$420				
+	667	Dahua Technology	Ojo de Pez (Fisheye)	DH-IPC-EW4443-AS-W	$65				
+	668	Dahua Technology	Ojo de Pez (Fisheye)	DH-IPC-EW5541-AS	$100				
+	669	Dahua Technology	Ojo de Pez (Fisheye)	DH-IPC-EW5541-AS-PV	$130				
+	670	Dahua Technology	Ojo de Pez (Fisheye)	DH-IPC-EW5543-AS	$195				
+	671	Dahua Technology	Ojo de Pez (Fisheye)	DH-IPC-EW9544H-AW	$285				
+	672	Dahua Technology	Multisensor / Panorámica	DH-IPC-PDBW8800-A180	$160				
+	673	Dahua Technology	Multisensor / Panorámica	DH-IPC-PDBW8800-A360	$240				
+	674	Dahua Technology	Multisensor / Panorámica	DH-IPC-PFW8800-A180	$320				
+	675	Dahua Technology	Multisensor / Panorámica	DH-IPC-PFW8800-A360	$480				
+	676	Dahua Technology	Multisensor / Panorámica	DH-IPC-PDBW9800-A180	$705				
+	677	Dahua Technology	Oculta (Pinhole)	DH-IPC-C12EP	$40				
+	678	Dahua Technology	Oculta (Pinhole)	DH-IPC-C15P	$55				
+	679	Dahua Technology	Oculta (Pinhole)	DH-IPC-C22EP	$75				
+	680	Dahua Technology	Oculta (Pinhole)	DH-IPC-C35P	$110				
+	681	Dahua Technology	Oculta (Pinhole)	DH-IPC-C46P	$165				
+	682	Dahua Technology	Térmica	DH-TPC-BF1241-TB3F4	$475				
+	683	Dahua Technology	Térmica	DH-TPC-BF1241-TF3F4	$710				
+	684	Dahua Technology	Térmica	DH-TPC-BF5441-TB3F4	$950				
+	685	Dahua Technology	Térmica	DH-TPC-SD8621-TB3F8	"$1,425"				
+	686	Dahua Technology	Térmica	DH-TPC-SD8431-TB3F8	"$2,090"				
+	687	Dahua Technology	LPR (Matrículas)	DH-ITC236-PV1.0	$210				
+	688	Dahua Technology	LPR (Matrículas)	DH-ITC237-PV1.0	$315				
+	689	Dahua Technology	LPR (Matrículas)	DH-ITC413-PV1.0	$420				
+	690	Dahua Technology	LPR (Matrículas)	DH-ITC525-PV1.0	$630				
+	691	Dahua Technology	LPR (Matrículas)	DH-ITC959-PV1.0	$925				
+	692	Dahua Technology	Dual-Lente	DH-IPC-MBW2431-AS-M12	$90				
+	693	Dahua Technology	Dual-Lente	DH-IPC-MBW4431-AS-M12	$130				
+	694	Dahua Technology	Dual-Lente	DH-IPC-MBW5431-AS-M12	$175				
+	695	Dahua Technology	Dual-Lente	DH-IPC-MBW8441-AS-M12	$260				
+	696	Dahua Technology	Dual-Lente	DH-IPC-MBW2449-AS-M12	$385				
+	697	Dahua Technology	IA Integrada	DH-IPC-HDW5541H-ASE	$60				
+	698	Dahua Technology	IA Integrada	DH-IPC-HDBW5541H-ASE	$85				
+	699	Dahua Technology	IA Integrada	DH-IPC-HFW5541H-ASE	$115				
+	700	Dahua Technology	IA Integrada	DH-IPC-HDW5849H-ASE	$170				
+	701	Dahua Technology	IA Integrada	DH-SD5A845GA-HNR	$255				
+	702	Dahua Technology	Interior WiFi	DH-IPC-A22P	$25				
+	703	Dahua Technology	Interior WiFi	DH-IPC-A26P	$35				
+	704	Dahua Technology	Interior WiFi	DH-IPC-A42P	$45				
+	705	Dahua Technology	Interior WiFi	DH-IPC-A46P	$70				
+	706	Dahua Technology	Interior WiFi	DH-IPC-A46LP	$100				
+	707	Uniview (UNV)	Domo	IPC3612SB-ADF16KM-I0	$50				
+	708	Uniview (UNV)	Domo	IPC3614SB-ADF28KM-I0	$70				
+	709	Uniview (UNV)	Domo	IPC3618SB-ADF28KM-I0	$95				
+	710	Uniview (UNV)	Domo	IPC3615SS-ADF34KM-I0	$140				
+	711	Uniview (UNV)	Domo	IPC3612SB-ADF28KM-I0S	$210				
+	712	Uniview (UNV)	Domo Antivandálica	IPC3512SB-ADF16KM-I0	$65				
+	713	Uniview (UNV)	Domo Antivandálica	IPC3514SB-ADF28KM-I0	$100				
+	714	Uniview (UNV)	Domo Antivandálica	IPC3515SB-ADF28KM-I0	$130				
+	715	Uniview (UNV)	Domo Antivandálica	IPC3518SB-ADF28KM-I0	$195				
+	716	Uniview (UNV)	Domo Antivandálica	IPC3538SB-ADF28KM-I0	$285				
+	717	Uniview (UNV)	Bala	IPC322SB-DF16KM-I0	$60				
+	718	Uniview (UNV)	Bala	IPC323SB-DF28KM-I0	$85				
+	719	Uniview (UNV)	Bala	IPC324SB-DF40KM-I0	$115				
+	720	Uniview (UNV)	Bala	IPC328SB-DF28KM-I0	$170				
+	721	Uniview (UNV)	Bala	IPC328SB-DF40KM-I0	$255				
+	722	Uniview (UNV)	PTZ	IPC672S-X12UG	$190				
+	723	Uniview (UNV)	PTZ	IPC672S-X16UG	$285				
+	724	Uniview (UNV)	PTZ	IPC672S-X24UG	$380				
+	725	Uniview (UNV)	PTZ	IPC672Z4-X30UG	$570				
+	726	Uniview (UNV)	PTZ	IPC65S-X32UG	$835				
+	727	Uniview (UNV)	Mini PTZ	IPC6412S-X4F4	$125				
+	728	Uniview (UNV)	Mini PTZ	IPC6414S-X4F4	$190				
+	729	Uniview (UNV)	Mini PTZ	IPC6418S-X4F4	$250				
+	730	Uniview (UNV)	Mini PTZ	IPC671S-X8UG	$375				
+	731	Uniview (UNV)	Mini PTZ	IPC672S-X16 (compacto)	$550				
+	732	Uniview (UNV)	Turrón (Box)	No disponible en portafolio					
+	733	Uniview (UNV)	Ojo de Pez (Fisheye)	IPC868ER-VF18-B	$80				
+	734	Uniview (UNV)	Ojo de Pez (Fisheye)	IPC868ER-VF28-B	$120				
+	735	Uniview (UNV)	Ojo de Pez (Fisheye)	IPC868ER-VF18-B-M	$160				
+	736	Uniview (UNV)	Ojo de Pez (Fisheye)	IPC868ER-VF28-B-M	$240				
+	737	Uniview (UNV)	Ojo de Pez (Fisheye)	IPC858ER-VF18-B	$350				
+	738	Uniview (UNV)	Multisensor / Panorámica	No disponible en portafolio					
+	739	Uniview (UNV)	Oculta (Pinhole)	No disponible en portafolio					
+	740	Uniview (UNV)	Térmica	No disponible en portafolio					
+	741	Uniview (UNV)	LPR (Matrículas)	IPC7536S-AF28KM-P	$210				
+	742	Uniview (UNV)	LPR (Matrículas)	IPC7536S-AF40KM-P	$315				
+	743	Uniview (UNV)	LPR (Matrículas)	IPC7536S-AF50KM-P	$420				
+	744	Uniview (UNV)	LPR (Matrículas)	IPC7546S-AF40KM-P	$630				
+	745	Uniview (UNV)	LPR (Matrículas)	IPC7556S-AF40KM-P	$925				
+	746	Uniview (UNV)	Dual-Lente	IPC862SB-DF16KM-2I0	$345				
+	747	Uniview (UNV)	Dual-Lente	IPC863SB-DF28KM-2I0	$520				
+	748	Uniview (UNV)	Dual-Lente	IPC864SB-DF40KM-2I0	$690				
+	749	Uniview (UNV)	Dual-Lente	IPC868SB-DF28KM-2I0	"$1,035"				
+	750	Uniview (UNV)	Dual-Lente	IPC868SB-DF40KM-2I0	"$1,520"				
+	751	Uniview (UNV)	IA Integrada	IPC3618SS-ADF28KM-I0	$70				
+	752	Uniview (UNV)	IA Integrada	IPC3615SS-ADF34KM-I0	$100				
+	753	Uniview (UNV)	IA Integrada	IPC672Z4-X30UG	$135				
+	754	Uniview (UNV)	IA Integrada	IPC868ER-VF18-B	$200				
+	755	Uniview (UNV)	IA Integrada	IPC7536S-AF28KM-P	$295				
+	756	Uniview (UNV)	Interior WiFi	No disponible en portafolio					
+	757	HiLook (Hikvision)	Domo	IPC-D120H-MU	$25				
+	758	HiLook (Hikvision)	Domo	IPC-D140H-MU	$35				
+	759	HiLook (Hikvision)	Domo	IPC-D150H-MU	$50				
+	760	HiLook (Hikvision)	Domo	IPC-D250H-MU	$70				
+	761	HiLook (Hikvision)	Domo	IPC-D320H-MU	$105				
+	762	HiLook (Hikvision)	Domo Antivandálica	IPC-D140H-MU	$30				
+	763	HiLook (Hikvision)	Domo Antivandálica	IPC-D150H-MU	$40				
+	764	HiLook (Hikvision)	Domo Antivandálica	IPC-D250H-MU	$55				
+	765	HiLook (Hikvision)	Domo Antivandálica	IPC-D320H-MU	$80				
+	766	HiLook (Hikvision)	Domo Antivandálica	IPC-D640H-MU	$120				
+	767	HiLook (Hikvision)	Bala	IPC-B120H-MU	$25				
+	768	HiLook (Hikvision)	Bala	IPC-B140H-MU	$35				
+	769	HiLook (Hikvision)	Bala	IPC-B640H-Z	$45				
+	770	HiLook (Hikvision)	Bala	IPC-B680H-Z	$70				
+	771	HiLook (Hikvision)	Bala	IPC-B695H-Z	$100				
+	772	HiLook (Hikvision)	PTZ	No disponible en portafolio					
+	773	HiLook (Hikvision)	Mini PTZ	No disponible en portafolio					
+	774	HiLook (Hikvision)	Turrón (Box)	No disponible en portafolio					
+	775	HiLook (Hikvision)	Ojo de Pez (Fisheye)	No disponible en portafolio					
+	776	HiLook (Hikvision)	Multisensor / Panorámica	No disponible en portafolio					
+	777	HiLook (Hikvision)	Oculta (Pinhole)	No disponible en portafolio					
+	778	HiLook (Hikvision)	Térmica	No disponible en portafolio					
+	779	HiLook (Hikvision)	LPR (Matrículas)	No disponible en portafolio					
+	780	HiLook (Hikvision)	Dual-Lente	No disponible en portafolio					
+	781	HiLook (Hikvision)	IA Integrada	IPC-D250H-MU	$40				
+	782	HiLook (Hikvision)	IA Integrada	IPC-D320H-MU	$60				
+	783	HiLook (Hikvision)	IA Integrada	IPC-B640H-Z	$80				
+	784	HiLook (Hikvision)	IA Integrada	IPC-B680H-Z	$115				
+	785	HiLook (Hikvision)	IA Integrada	IPC-D640H-MU	$170				
+	786	HiLook (Hikvision)	Interior WiFi	No disponible en portafolio					
+	787	Imou (Dahua)	Domo	IPC-F22FP (Ranger 2)	$25				
+	788	Imou (Dahua)	Domo	IPC-S22FP (Ranger 2 4MP)	$25				
+	789	Imou (Dahua)	Domo	IPC-F46FP (Ranger Pro)	$30				
+	790	Imou (Dahua)	Domo	IPC-S42FP (Ranger 2 IA)	$50				
+	791	Imou (Dahua)	Domo	IPC-S3EP (Ranger 3)	$70				
+	792	Imou (Dahua)	Domo Antivandálica	No disponible en portafolio					
+	793	Imou (Dahua)	Bala	IPC-G22P (Bullet 2E)	$25				
+	794	Imou (Dahua)	Bala	IPC-G22EP (Bullet 2)	$30				
+	795	Imou (Dahua)	Bala	IPC-G24P (Bullet 2C)	$40				
+	796	Imou (Dahua)	Bala	IPC-G42P (Bullet 2S)	$55				
+	797	Imou (Dahua)	Bala	IPC-S41FP (Cruiser SE)	$85				
+	798	Imou (Dahua)	PTZ	IPC-S41EP (Cruiser)	$30				
+	799	Imou (Dahua)	PTZ	IPC-S41FP (Cruiser SE)	$45				
+	800	Imou (Dahua)	PTZ	IPC-S42EP (Cruiser 2)	$60				
+	801	Imou (Dahua)	PTZ	IPC-S42FP (Cruiser SE+)	$95				
+	802	Imou (Dahua)	PTZ	IPC-S62EP (Cruiser Pro)	$135				
+	803	Imou (Dahua)	Mini PTZ	No disponible en portafolio					
+	804	Imou (Dahua)	Turrón (Box)	No disponible en portafolio					
+	805	Imou (Dahua)	Ojo de Pez (Fisheye)	No disponible en portafolio					
+	806	Imou (Dahua)	Multisensor / Panorámica	No disponible en portafolio					
+	807	Imou (Dahua)	Oculta (Pinhole)	No disponible en portafolio					
+	808	Imou (Dahua)	Térmica	No disponible en portafolio					
+	809	Imou (Dahua)	LPR (Matrículas)	No disponible en portafolio					
+	810	Imou (Dahua)	Dual-Lente	IPC-D26P (Duo)	$40				
+	811	Imou (Dahua)	Dual-Lente	IPC-D26EP (Duo 2E)	$60				
+	812	Imou (Dahua)	Dual-Lente	IPC-D46P (Duo 2)	$80				
+	813	Imou (Dahua)	Dual-Lente	IPC-D46EP (Duo 2 Pro)	$115				
+	814	Imou (Dahua)	Dual-Lente	IPC-D80P (Duo 3)	$170				
+	815	Imou (Dahua)	IA Integrada	IPC-F46FP (IA)	$25				
+	816	Imou (Dahua)	IA Integrada	IPC-S42FP (IA)	$35				
+	817	Imou (Dahua)	IA Integrada	IPC-G42P (IA)	$45				
+	818	Imou (Dahua)	IA Integrada	IPC-S62EP (IA)	$70				
+	819	Imou (Dahua)	IA Integrada	IPC-D46P (IA)	$100				
+	820	Imou (Dahua)	Interior WiFi	IPC-F22FP (Ranger 2 WiFi)	$25				
+	821	Imou (Dahua)	Interior WiFi	IPC-G22P (Bullet 2E WiFi)	$25				
+	822	Imou (Dahua)	Interior WiFi	IPC-F46FP (Ranger Pro WiFi)	$35				
+	823	Imou (Dahua)	Interior WiFi	IPC-S42EP (Cruiser 2 WiFi)	$50				
+	824	Imou (Dahua)	Interior WiFi	IPC-L26P (Cell Pro)	$75				
+	825	EZVIZ (Hikvision)	Domo	CS-C6N	$25				
+	826	EZVIZ (Hikvision)	Domo	CS-C6CN	$25				
+	827	EZVIZ (Hikvision)	Domo	CS-H6c	$30				
+	828	EZVIZ (Hikvision)	Domo	CS-H6c-R	$45				
+	829	EZVIZ (Hikvision)	Domo	CS-H6c-4MP	$65				
+	830	EZVIZ (Hikvision)	Domo Antivandálica	No disponible en portafolio					
+	831	EZVIZ (Hikvision)	Bala	CS-C3N	$25				
+	832	EZVIZ (Hikvision)	Bala	CS-C3W	$30				
+	833	EZVIZ (Hikvision)	Bala	CS-H3c	$40				
+	834	EZVIZ (Hikvision)	Bala	CS-H3 2K+	$55				
+	835	EZVIZ (Hikvision)	Bala	CS-C3X	$85				
+	836	EZVIZ (Hikvision)	PTZ	CS-C8C	$30				
+	837	EZVIZ (Hikvision)	PTZ	CS-C8W	$40				
+	838	EZVIZ (Hikvision)	PTZ	CS-H8c	$55				
+	839	EZVIZ (Hikvision)	PTZ	CS-H8 2K+	$80				
+	840	EZVIZ (Hikvision)	PTZ	CS-H8 4K	$120				
+	841	EZVIZ (Hikvision)	Mini PTZ	No disponible en portafolio					
+	842	EZVIZ (Hikvision)	Turrón (Box)	No disponible en portafolio					
+	843	EZVIZ (Hikvision)	Ojo de Pez (Fisheye)	No disponible en portafolio					
+	844	EZVIZ (Hikvision)	Multisensor / Panorámica	No disponible en portafolio					
+	845	EZVIZ (Hikvision)	Oculta (Pinhole)	No disponible en portafolio					
+	846	EZVIZ (Hikvision)	Térmica	No disponible en portafolio					
+	847	EZVIZ (Hikvision)	LPR (Matrículas)	No disponible en portafolio					
+	848	EZVIZ (Hikvision)	Dual-Lente	CS-H9c	$45				
+	849	EZVIZ (Hikvision)	Dual-Lente	CS-H9c-R	$65				
+	850	EZVIZ (Hikvision)	Dual-Lente	CS-H9	$90				
+	851	EZVIZ (Hikvision)	Dual-Lente	CS-H9-R	$135				
+	852	EZVIZ (Hikvision)	Dual-Lente	CS-H9c-4MP	$195				
+	853	EZVIZ (Hikvision)	IA Integrada	CS-C3X	$30				
+	854	EZVIZ (Hikvision)	IA Integrada	CS-C8W (IA)	$45				
+	855	EZVIZ (Hikvision)	IA Integrada	CS-H8 2K+	$60				
+	856	EZVIZ (Hikvision)	IA Integrada	CS-H8 4K	$95				
+	857	EZVIZ (Hikvision)	IA Integrada	CS-H9	$135				
+	858	EZVIZ (Hikvision)	Interior WiFi	CS-C1C	$25				
+	859	EZVIZ (Hikvision)	Interior WiFi	CS-C1HC	$25				
+	860	EZVIZ (Hikvision)	Interior WiFi	CS-C6N	$35				
+	861	EZVIZ (Hikvision)	Interior WiFi	CS-TY1	$50				
+	862	EZVIZ (Hikvision)	Interior WiFi	CS-EB3 (batería)	$75				
+	863	Reolink	Domo	RLC-1210A	$50				
+	864	Reolink	Domo	RLC-1220A	$80				
+	865	Reolink	Domo	RLC-1212A	$105				
+	866	Reolink	Domo	RLC-1224A	$160				
+	867	Reolink	Domo	CX410	$230				
+	868	Reolink	Domo Antivandálica	No disponible en portafolio					
+	869	Reolink	Bala	RLC-810A	$35				
+	870	Reolink	Bala	RLC-811A	$50				
+	871	Reolink	Bala	RLC-820A	$70				
+	872	Reolink	Bala	RLC-842A	$105				
+	873	Reolink	Bala	CX810	$155				
+	874	Reolink	PTZ	RLC-823A	$95				
+	875	Reolink	PTZ	RLC-833A	$140				
+	876	Reolink	PTZ	TrackMix PoE	$190				
+	877	Reolink	PTZ	TrackMix WiFi	$285				
+	878	Reolink	PTZ	TrackMix LTE	$420				
+	879	Reolink	Mini PTZ	No disponible en portafolio					
+	880	Reolink	Turrón (Box)	No disponible en portafolio					
+	881	Reolink	Ojo de Pez (Fisheye)	No disponible en portafolio					
+	882	Reolink	Multisensor / Panorámica	No disponible en portafolio					
+	883	Reolink	Oculta (Pinhole)	No disponible en portafolio					
+	884	Reolink	Térmica	No disponible en portafolio					
+	885	Reolink	LPR (Matrículas)	No disponible en portafolio					
+	886	Reolink	Dual-Lente	RLC-Duo 2	$65				
+	887	Reolink	Dual-Lente	RLC-Duo 3	$100				
+	888	Reolink	Dual-Lente	RLC-Duo 3 PoE	$130				
+	889	Reolink	Dual-Lente	RLC-Duo 3V	$195				
+	890	Reolink	Dual-Lente	RLC-Duo 3 Wide	$285				
+	891	Reolink	IA Integrada	RLC-810A	$50				
+	892	Reolink	IA Integrada	RLC-811A	$70				
+	893	Reolink	IA Integrada	RLC-842A	$95				
+	894	Reolink	IA Integrada	CX810	$140				
+	895	Reolink	IA Integrada	TrackMix PoE	$210				
+	896	Reolink	Interior WiFi	E1	$25				
+	897	Reolink	Interior WiFi	E1 Pro	$40				
+	898	Reolink	Interior WiFi	E1 Zoom	$50				
+	899	Reolink	Interior WiFi	E1 Outdoor	$75				
+	900	Reolink	Interior WiFi	Argus 3 Pro	$110				
+	901	TP-Link VIGI	Domo	VIGI C440	$30				
+	902	TP-Link VIGI	Domo	VIGI C445	$45				
+	903	TP-Link VIGI	Domo	VIGI C540	$60				
+	904	TP-Link VIGI	Domo	VIGI C545	$90				
+	905	TP-Link VIGI	Domo	VIGI C540V	$130				
+	906	TP-Link VIGI	Domo Antivandálica	VIGI C440V	$40				
+	907	TP-Link VIGI	Domo Antivandálica	VIGI C445V	$65				
+	908	TP-Link VIGI	Domo Antivandálica	VIGI C450V	$85				
+	909	TP-Link VIGI	Domo Antivandálica	VIGI C540V	$130				
+	910	TP-Link VIGI	Domo Antivandálica	VIGI C545V	$185				
+	911	TP-Link VIGI	Bala	VIGI C240	$25				
+	912	TP-Link VIGI	Bala	VIGI C340	$35				
+	913	TP-Link VIGI	Bala	VIGI C345	$50				
+	914	TP-Link VIGI	Bala	VIGI C450	$70				
+	915	TP-Link VIGI	Bala	VIGI C550	$105				
+	916	TP-Link VIGI	PTZ	VIGI C220	$90				
+	917	TP-Link VIGI	PTZ	VIGI C225	$135				
+	918	TP-Link VIGI	PTZ	VIGI C320	$180				
+	919	TP-Link VIGI	PTZ	VIGI C420	$270				
+	920	TP-Link VIGI	PTZ	VIGI C520	$395				
+	921	TP-Link VIGI	Mini PTZ	No disponible en portafolio					
+	922	TP-Link VIGI	Turrón (Box)	No disponible en portafolio					
+	923	TP-Link VIGI	Ojo de Pez (Fisheye)	No disponible en portafolio					
+	924	TP-Link VIGI	Multisensor / Panorámica	No disponible en portafolio					
+	925	TP-Link VIGI	Oculta (Pinhole)	No disponible en portafolio					
+	926	TP-Link VIGI	Térmica	No disponible en portafolio					
+	927	TP-Link VIGI	LPR (Matrículas)	No disponible en portafolio					
+	928	TP-Link VIGI	Dual-Lente	No disponible en portafolio					
+	929	TP-Link VIGI	IA Integrada	VIGI C345	$30				
+	930	TP-Link VIGI	IA Integrada	VIGI C445	$50				
+	931	TP-Link VIGI	IA Integrada	VIGI C450	$65				
+	932	TP-Link VIGI	IA Integrada	VIGI C540V	$100				
+	933	TP-Link VIGI	IA Integrada	VIGI C225	$145				
+	934	TP-Link VIGI	Interior WiFi	No disponible en portafolio					
+	935	Tenda Security	Domo	CP3	$25				
+	936	Tenda Security	Domo	CP3 Pro	$25				
+	937	Tenda Security	Domo	CP4	$35				
+	938	Tenda Security	Domo	CP5	$50				
+	939	Tenda Security	Domo	CP7	$75				
+	940	Tenda Security	Domo Antivandálica	No disponible en portafolio					
+	941	Tenda Security	Bala	CP3 Outdoor	$25				
+	942	Tenda Security	Bala	CP3 Outdoor Pro	$30				
+	943	Tenda Security	Bala	CB1	$40				
+	944	Tenda Security	Bala	CB2	$65				
+	945	Tenda Security	Bala	CB3	$90				
+	946	Tenda Security	PTZ	CP7	$30				
+	947	Tenda Security	PTZ	CP7 Pro	$40				
+	948	Tenda Security	PTZ	CP8	$55				
+	949	Tenda Security	PTZ	CP8 Pro	$80				
+	950	Tenda Security	PTZ	CP9	$120				
+	951	Tenda Security	Mini PTZ	No disponible en portafolio					
+	952	Tenda Security	Turrón (Box)	No disponible en portafolio					
+	953	Tenda Security	Ojo de Pez (Fisheye)	No disponible en portafolio					
+	954	Tenda Security	Multisensor / Panorámica	No disponible en portafolio					
+	955	Tenda Security	Oculta (Pinhole)	No disponible en portafolio					
+	956	Tenda Security	Térmica	No disponible en portafolio					
+	957	Tenda Security	LPR (Matrículas)	No disponible en portafolio					
+	958	Tenda Security	Dual-Lente	No disponible en portafolio					
+	959	Tenda Security	IA Integrada	CP3 Pro	$25				
+	960	Tenda Security	IA Integrada	CP7	$35				
+	961	Tenda Security	IA Integrada	CP8	$50				
+	962	Tenda Security	IA Integrada	CB3	$70				
+	963	Tenda Security	IA Integrada	CP9	$105				
+	964	Tenda Security	Interior WiFi	CP3	$25				
+	965	Tenda Security	Interior WiFi	CP3C	$25				
+	966	Tenda Security	Interior WiFi	CP3 Pro	$25				
+	967	Tenda Security	Interior WiFi	CP6	$40				
+	968	Tenda Security	Interior WiFi	CP7	$60				
+	Subtotal A — Cámaras (USD)							$0.00	
+									
+	"B. Equipamiento — NVR, Switch, UPS, Monitores, Rack y más (62 modelos)"								
+	N°	Marca	Categoría	Modelo	Precio Unit. (USD)	Cantidad	Descuento	Subtotal (USD)	Notas
+	1	Axis Communications	NVR / DVR	AXIS S3008 Recorder	$449				
+	2	Hikvision	NVR / DVR	DS-7608NXI-K2/8P	$289				
+	3	Hikvision	NVR / DVR	DS-7208HUHI-K2	$139				
+	4	Dahua Technology	NVR / DVR	NVR5216-16P-4KS2E	$519				
+	5	Uniview (UNV)	NVR / DVR	NVR302-16S-P16	$379				
+	6	Hanwha Vision (Wisenet)	NVR / DVR	HRX-810-4TB	$439				
+	7	Reolink	NVR / DVR	RLN16-410	$269				
+	8	TP-Link VIGI	NVR / DVR	VIGI NVR1008H-8P	$159				
+	9	HiLook (Hikvision)	NVR / DVR	NVR-208MH-C/8P	$139				
+	10	Imou (Dahua)	NVR / DVR	NVR1008H-08P	$119				
+	11	Seagate	Almacenamiento (HDD)	SkyHawk AI 8 TB (ST8000VE001)	$189				
+	12	Western Digital	Almacenamiento (HDD)	Purple Pro 8 TB (WD82PURP)	$185				
+	13	Toshiba	Almacenamiento (HDD)	S300 6 TB (HDWT760)	$139				
+	14	Western Digital	Almacenamiento (HDD)	Purple 4 TB (WD40PURZ)	$99				
+	15	Seagate	Almacenamiento (HDD)	SkyHawk 4 TB (ST4000VX015)	$95				
+	16	TP-Link	Switch PoE	TL-SG1210MP	$79				
+	17	TP-Link	Switch PoE	TL-SG2428P	$269				
+	18	Ubiquiti	Switch PoE	USW-Lite-8-PoE	$109				
+	19	Ubiquiti	Switch PoE	USW-Pro-Max-24-PoE	$599				
+	20	Hikvision	Switch PoE	DS-3E0326P-E/M(B)	$159				
+	21	Dahua Technology	Switch PoE	DH-PFS4218-16GT-240	$189				
+	22	Netgear	Switch PoE	GS324PP	$329				
+	23	APC	UPS	Back-UPS BVX700LUI	$79				
+	24	Eaton	UPS	5E1100UI	$149				
+	25	CyberPower	UPS	CP1500PFCLCD	$199				
+	26	Vertiv	UPS	Liebert PSA1500MT3	$179				
+	27	APC	UPS	Smart-UPS SMT1500C	$549				
+	28	APC	UPS	Smart-UPS SRT5KRMXLT	"$2,999"				
+	29	BenQ	Monitor	GW2480	$99				
+	30	LG	Monitor	24MK430H-B	$109				
+	31	Dell	Monitor	E2422H	$139				
+	32	ViewSonic	Monitor	VA2719-2K-SMHD	$189				
+	33	Samsung	Monitor	S32A600NWU	$249				
+	34	APC	Rack / Gabinete	NetShelter WX 9U (AR109)	$299				
+	35	Tripp Lite	Rack / Gabinete	SRWO9U33	$259				
+	36	StarTech.com	Rack / Gabinete	RK12WALL	$189				
+	37	Genérico	Rack / Gabinete	Gabinete exterior NEMA 4X	$179				
+	38	Rittal	Rack / Gabinete	TS IT 42U 800×800	"$1,149"				
+	39	Belden	Cableado y Conectores	Cat6 UTP CMR 305 m	$189				
+	40	Genérico	Cableado y Conectores	Cat6 UTP CMX exterior 305 m	$79				
+	41	Genérico	Cableado y Conectores	Coaxial RG59 + 2C 305 m	$89				
+	42	TP-Link	Cableado y Conectores	MC220L	$49				
+	43	Panduit	Cableado y Conectores	Patch Panel Cat6 24 puertos	$59				
+	44	Genérico	Cableado y Conectores	Conectores RJ45 Cat6 (×100)	$19				
+	45	Hikvision	Accesorios de Instalación	DS-1294ZJ	$12				
+	46	Dahua Technology	Accesorios de Instalación	PFB203W	$15				
+	47	Axis Communications	Accesorios de Instalación	T94A01A	$39				
+	48	Axis Communications	Accesorios de Instalación	T90D25 IR-LED	$229				
+	49	Genérico	Accesorios de Instalación	Iluminador IR 30 m	$29				
+	50	Fujinon	Accesorios de Instalación	YV2.8x2.8SR4A-2	$99				
+	51	Genérico	Accesorios de Instalación	Carcasa exterior IP66 para box	$35				
+	52	Genérico	Alimentación / PoE	Fuente 12 VDC 5 A (4 salidas)	$19				
+	53	Genérico	Alimentación / PoE	Fuente 12 VDC 10 A (9 salidas)	$29				
+	54	Ubiquiti	Alimentación / PoE	U-POE-at	$29				
+	55	Dahua Technology	Alimentación / PoE	PFT1300	$29				
+	56	TP-Link	Alimentación / PoE	TL-PoE150G	$19				
+	57	Milestone Systems	Software VMS	XProtect Express+	$79				
+	58	Milestone Systems	Software VMS	XProtect Professional+	$129				
+	59	Axis Communications	Software VMS	AXIS Camera Station Pro	$99				
+	60	Hanwha Vision (Wisenet)	Software VMS	Wisenet WAVE Professional	$99				
+	61	Hikvision	Software VMS	HikCentral Professional	$549				
+	62	Perspective Software	Software VMS	Blue Iris v5 (licencia)	$70				
+	Subtotal B — Equipamiento (USD)							$0.00	
+									
+	TOTAL GENERAL COTIZADO (USD)							$0.00	
+									
+	Ítems cotizados:		0						
+	Monto total con descuentos (USD):		$0.00						
+									
+	"Instrucciones: complete los datos del encabezado; en la sección A (cámaras) y la sección B (equipamiento) ingrese Cantidad y Descuento (0%–90%) por ítem; Subtotales y TOTAL GENERAL se calculan automáticamente. Los precios unitarios provienen de las hojas Base de Datos y Equipamiento (columna Precio Ref.), donde puede editarlos. Precios referenciales en USD."								

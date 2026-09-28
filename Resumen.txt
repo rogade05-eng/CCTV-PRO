@@ -1,0 +1,61 @@
+	Resumen — Cobertura Marca × Tipo y Estadísticas de Equipamiento																						
+																							
+																							
+	Tipo de Cámara \ Marca	Axis Communications	Bosch Security Systems	Hanwha Vision (Wisenet)	Avigilon (Motorola)	Pelco (Motorola)	Honeywell Security	MOBOTIX	Vivotek	IDIS	Verkada	Ubiquiti (UniFi Protect)	Hikvision	Dahua Technology	Uniview (UNV)	HiLook (Hikvision)	Imou (Dahua)	EZVIZ (Hikvision)	Reolink	TP-Link VIGI	Tenda Security	Total	
+	Domo	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	100	
+	Domo Antivandálica	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	0	0	0	5	0	80	
+	Bala	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	100	
+	PTZ	5	5	5	5	5	5	5	5	5	0	5	5	5	5	0	5	5	5	5	5	90	
+	Mini PTZ	5	5	5	0	5	0	0	5	0	0	0	5	5	5	0	0	0	0	0	0	40	
+	Turrón (Box)	5	5	5	0	0	5	5	5	0	0	0	5	5	0	0	0	0	0	0	0	40	
+	Ojo de Pez (Fisheye)	5	5	5	5	5	0	5	5	5	5	5	5	5	5	0	0	0	0	0	0	65	
+	Multisensor / Panorámica	5	5	5	5	5	0	5	5	0	0	0	5	5	0	0	0	0	0	0	0	45	
+	Oculta (Pinhole)	5	0	0	0	0	0	0	0	0	0	0	5	5	0	0	0	0	0	0	0	15	
+	Térmica	5	5	5	5	5	0	5	5	0	0	0	5	5	0	0	0	0	0	0	0	45	
+	LPR (Matrículas)	5	5	5	5	0	0	0	5	5	5	0	5	5	5	0	0	0	0	0	0	50	
+	Dual-Lente	5	0	5	0	0	0	5	0	0	0	0	5	5	5	0	5	5	5	0	0	45	
+	IA Integrada	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	100	
+	Interior WiFi	0	5	5	0	0	5	0	0	0	0	0	5	5	0	0	5	5	5	0	5	45	
+	Modelos activos por marca	65	60	65	45	45	35	50	55	35	30	30	70	70	45	20	30	30	30	25	25	860	
+																							
+																							
+	Estadísticas por marca																						
+	Marca	Nivel	País	Modelos activos	Precio mín. (USD)	Precio máx. (USD)	Precio promedio (USD)																
+	Axis Communications	Premium	Suecia	65	$260	"$17,380"	"$2,819"																
+	Bosch Security Systems	Premium	Alemania	60	$100	"$25,300"	"$2,731"																
+	Hanwha Vision (Wisenet)	Premium	Corea del Sur	65	$45	"$10,780"	"$1,635"																
+	Avigilon (Motorola)	Premium	Canadá	45	$360	"$14,300"	"$2,528"																
+	Pelco (Motorola)	Premium	EE. UU.	45	$270	"$12,760"	"$2,571"																
+	Honeywell Security	Premium	EE. UU.	35	$65	"$3,080"	$510																
+	MOBOTIX	Premium	Alemania	50	$445	"$15,180"	"$2,185"																
+	Vivotek	Medio-Alto	Taiwán	55	$150	"$10,560"	"$1,308"																
+	IDIS	Medio-Alto	Corea del Sur	35	$125	"$2,530"	$510																
+	Verkada	Premium (Cloud)	EE. UU.	30	$300	"$1,870"	$853																
+	Ubiquiti (UniFi Protect)	Medio	EE. UU.	30	$100	"$1,540"	$387																
+	Hikvision	Medio	China	70	$40	"$4,180"	$571																
+	Dahua Technology	Medio	China	70	$25	"$2,090"	$323																
+	Uniview (UNV)	Medio	China	45	$50	"$1,520"	$314																
+	HiLook (Hikvision)	Económico	China	20	$25	$170	$68																
+	Imou (Dahua)	Económico	China	30	$25	$170	$58																
+	EZVIZ (Hikvision)	Económico	China	30	$25	$195	$62																
+	Reolink	Económico	China	30	$25	$420	$127																
+	TP-Link VIGI	Económico	China	25	$25	$395	$104																
+	Tenda Security	Económico	China	25	$25	$120	$50																
+	TOTAL / GENERAL			860	$25	"$25,300"	"$1,193"																
+																							
+																							
+	Estadísticas de equipamiento por categoría																						
+	Categoría de Equipamiento	Modelos	Precio mín. (USD)	Precio máx. (USD)	Precio promedio (USD)																		
+	NVR / DVR	10	$119	$519	$290																		
+	Almacenamiento (HDD)	5	$95	$189	$141																		
+	Switch PoE	7	$79	$599	$248																		
+	UPS	6	$79	"$2,999"	$692																		
+	Monitor	5	$99	$249	$157																		
+	Rack / Gabinete	5	$179	"$1,149"	$415																		
+	Cableado y Conectores	6	$19	$189	$81																		
+	Accesorios de Instalación	7	$12	$229	$65																		
+	Alimentación / PoE	5	$19	$29	$25																		
+	Software VMS	6	$70	$549	$171																		
+	TOTAL / GENERAL	62	$12	"$2,999"	$233																		
+																							
+	"Nota: la matriz cuenta modelos activos (excluye filas «No disponible en portafolio»); cada marca × tipo activo incluye 5 variantes de gama. Celda 0 = la marca no fabrica ese tipo; en Base de Datos se sugiere el equivalente. Las estadísticas de precio de cámaras leen el bloque de filas de cada marca en la Base de Datos y las del equipamiento el bloque de cada categoría en la hoja Equipamiento; si reordena los registros, ajuste los rangos de las fórmulas."																						

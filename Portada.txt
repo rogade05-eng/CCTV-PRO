@@ -1,0 +1,29 @@
+	BASE DE DATOS TÉCNICA — SISTEMA CCTV INTEGRAL						
+	Plantilla editable · 20 marcas · 14 tipos de cámara · 5 variantes por tipo · 10 categorías de equipamiento · Precios en USD						
+							
+	20	14	968	860	10	62	
+	Marcas	Tipos de cámara	Modelos de cámara	Cámaras activas	Categorías de equipo	Equipos registrados	
+							
+							
+	Hoja	Contenido					
+	Resumen	"Cobertura marca × tipo, estadísticas de cámaras y equipamiento"					
+	Base de Datos	Hoja maestra: 968 registros (5 variantes por tipo y marca) filtrables					
+	Equipamiento	"NVR/DVR, HDD, switch PoE, UPS, monitores, rack, cableado, accesorios, fuentes y VMS"					
+	Comparativa	Ficha comparativa por tipo (modelo premium / medio / económico)					
+	Lista de Precios	Cotización integral: sección A cámaras + sección B equipamiento					
+	Niveles de marca incluidos						
+	Nivel	Marcas	Enfoque				
+	Premium	"Axis, Bosch, Hanwha Vision, Avigilon, Pelco, Honeywell, MOBOTIX"	"Máxima calidad óptica, analíticas y soporte; precio alto"				
+	Premium (Cloud) / Medio-Alto	"Verkada · Vivotek, IDIS"	Gestión en la nube o gama profesional intermedia				
+	Medio	"Hikvision, Dahua, Uniview, Ubiquiti (UniFi Protect)"	La mejor relación precio/rendimiento del mercado				
+	Económico	"HiLook, Imou, EZVIZ, Reolink, TP-Link VIGI, Tenda"	Proyectos de bajo presupuesto; matrículas de las matrices Hikvision/Dahua				
+							
+							
+	Notas de uso						
+	"1. Las especificaciones y precios son referenciales (USD, mercado 2026); verifique siempre la ficha técnica vigente del fabricante antes de cotizar o instalar."						
+	2. Filas «No disponible en portafolio» (marcadas en ámbar): la marca no fabrica ese tipo de cámara; en Observaciones se sugiere el equivalente de su matriz u otra marca.						
+	"3. Use los filtros de la fila de encabezados en Base de Datos (panel congelado en H5) y en Equipamiento (panel congelado en G5) para segmentar por marca, categoría, nivel o precio."						
+	"4. Hoja Equipamiento: NVR/DVR, discos de vigilancia, switch PoE, UPS, monitores, rack, cableado, accesorios, fuentes/PoE y software VMS (62 modelos de referencia)."						
+	"5. En Lista de Precios, complete Cantidad y Descuento en ambas secciones (A cámaras / B equipamiento); los subtotales y el TOTAL GENERAL se calculan automáticamente."						
+	"6. Las columnas Proveedor y Stock están listas para registrar sus distribuidores locales (con listas desplegables en Categoría, Nivel, Stock y Uso)."						
+	7. Hoja Comparativa: fichas de los 14 tipos de cámara con un modelo de referencia por nivel (premium / medio / económico).						

@@ -1,0 +1,296 @@
+	Comparativa por Tipo de Cámara — Modelos de Referencia			
+				
+				
+	1. Domo			
+	"Cámara compacta de techo o pared, discreta, para interiores y exteriores"			
+	Especificación	"Axis Communications
+AXIS P3245-LVE"	"Hikvision
+DS-2CD2131G0-I"	"HiLook (Hikvision)
+IPC-D150H-MU"
+	Nivel	Premium	Medio	Económico
+	Resolución	4 MP	4 MP	4 MP
+	Resolución Máx.	2560 × 1440	2560 × 1440	2560 × 1440
+	Sensor	"1/2.8"" Sony Starvis"	"1/2.8"" CMOS"	"1/2.7"" CMOS"
+	Lente	3–9 mm varifocal P-Iris	2.8 mm fijo (4 mm opcional)	3.6 mm fijo
+	Visión Nocturna	OptimizedIR 40 m	IR 30 m	IR 30 m
+	WDR	Forensic WDR	WDR 120 dB	WDR 120 dB
+	Analíticas IA	AXIS Object Analytics	EasyIP 4.0 — analíticas básicas	"Analíticas básicas (movimiento, cruce de línea)"
+	Audio	E/S (según modelo)	1 E / 1 S (según modelo)	Micrófono integrado (según modelo)
+	Protección	IP66 / IK10	IP66	IP66
+	PoE	802.3af	802.3af	802.3af
+	Consumo	12.9 W máx	6.5 W máx	5 W máx
+	Temp. Operación	-30 °C a +50 °C	-30 °C a +60 °C	-30 °C a +60 °C
+	Precio Ref. (USD)	"$1,090"	$95	$50
+				
+	2. Domo Antivandálica			
+	Domo reforzado IK10 para ambientes con alto riesgo de vandalismo			
+	Especificación	"Bosch Security Systems
+FLEXIDOME IP outdoor 5000i (NDE-5502-AL)"	"Dahua Technology
+DH-IPC-HDBW2431T1-AS-S2"	"TP-Link VIGI
+VIGI C450V"
+	Nivel	Premium	Medio	Económico
+	Resolución	4 MP	4 MP	4 MP
+	Resolución Máx.	2560 × 1440	2560 × 1440	2560 × 1440
+	Sensor	"1/2.8"" CMOS"	"1/2.8"" CMOS"	"1/3"" CMOS"
+	Lente	2.8–10 mm varifocal	2.7–13.5 mm varifocal	2.8–8 mm motorizada
+	Visión Nocturna	IR 30 m	IR 50 m	Full color — LED blanco 30 m
+	WDR	WDR 120 dB	WDR 120 dB	WDR
+	Analíticas IA	Analíticas Bosch (movimiento inteligente)	IVS + analíticas	Detección IA personas/vehículos
+	Audio	E/S integrada	1 E / 1 S (según modelo)	Micrófono/altavoz integrado
+	Protección	IP66 / IK10	IK10 / IP67	IP66 / IK10
+	PoE	802.3af	802.3af	802.3af
+	Consumo	9 W máx	12 W máx	9 W máx
+	Temp. Operación	-30 °C a +55 °C	-30 °C a +60 °C	-20 °C a +50 °C
+	Precio Ref. (USD)	$890	$145	$85
+				
+	3. Bala			
+	"Formato cilíndrico con soporte; mayor alcance IR, ideal para perímetros"			
+	Especificación	"Axis Communications
+AXIS P1467-LE"	"Hikvision
+DS-2CD2043G0-I"	"Reolink
+RLC-820A"
+	Nivel	Premium	Medio	Económico
+	Resolución	4 MP	4 MP	4 MP
+	Resolución Máx.	2560 × 1440	2560 × 1440	2560 × 1440
+	Sensor	"1/2.8"" Sony Starvis"	"1/1.8"" CMOS ColorVu"	"1/2.8"" CMOS"
+	Lente	3–9 mm varifocal	2.8 mm fijo	4 mm fijo
+	Visión Nocturna	OptimizedIR 50 m	Full color 24/7 — LED blanco 30 m	IR 30 m
+	WDR	Forensic WDR	WDR 120 dB	WDR
+	Analíticas IA	AXIS Object Analytics	AcuSense (personas/vehículos)	Detección IA personas/vehículos
+	Audio	E/S (según modelo)	1 E / 1 S (según modelo)	Micrófono integrado
+	Protección	IP66 / IK09	IP67	IP66
+	PoE	802.3af	802.3af	802.3af
+	Consumo	11.5 W máx	10 W máx	9 W máx
+	Temp. Operación	-30 °C a +50 °C	-30 °C a +60 °C	-20 °C a +55 °C
+	Precio Ref. (USD)	$940	$130	$70
+				
+	4. PTZ			
+	Pan/Tilt/Zoom motorizado con seguimiento automático para vigilancia activa			
+	Especificación	"Axis Communications
+AXIS P5655-E"	"Hanwha Vision (Wisenet)
+XNP-C6403RW"	"TP-Link VIGI
+VIGI C320"
+	Nivel	Premium	Premium	Económico
+	Resolución	4 MP	4 MP	4 MP
+	Resolución Máx.	2560 × 1440	2560 × 1440	2560 × 1440
+	Sensor	"1/2.8"" Sony Starvis"	"1/2.8"" CMOS"	"1/2.8"" CMOS"
+	Lente	32× zoom óptico (4.3–138 mm)	32× zoom óptico	22× zoom óptico
+	Visión Nocturna	OptimizedIR 150 m	IR 50 m + LED blanco	IR 100 m
+	WDR	Forensic WDR	WDR	WDR
+	Analíticas IA	"Autotracking 2, guarda activa"	WiseAI II — autotracking IA	Seguimiento automático + IA
+	Audio	E/S (según modelo)	E/S integrada	Micrófono/altavoz integrado
+	Protección	IP66 / NEMA 4X	IP66	IP66
+	PoE	802.3at	802.3at	802.3at
+	Consumo	45 W máx	55 W máx	20 W máx
+	Temp. Operación	-30 °C a +50 °C	-30 °C a +55 °C	-20 °C a +50 °C
+	Precio Ref. (USD)	"$5,480"	"$3,200"	$180
+				
+	5. Mini PTZ			
+	PTZ compacto y económico para interiores y fachadas			
+	Especificación	"Axis Communications
+AXIS P5522-E"	"Dahua Technology
+DH-SD29204T-GN-W"	"Hikvision
+DS-2DE2A404IW-DE3"
+	Nivel	Premium	Medio	Medio
+	Resolución	4 MP	4 MP	4 MP
+	Resolución Máx.	2560 × 1440	2560 × 1440	2560 × 1440
+	Sensor	"1/2.8"" CMOS"	"1/2.8"" CMOS"	"1/2.8"" CMOS"
+	Lente	10× zoom óptico (4.7–47 mm)	25× zoom óptico	Zoom motorizado 2.8–8 mm
+	Visión Nocturna	IR 30 m	IR 50 m	IR 30 m
+	WDR	WDR	WDR 120 dB	WDR 120 dB
+	Analíticas IA	Autotracking básico	Autotracking	Autotracking básico
+	Audio	E/S (según modelo)	1 E / 1 S (según modelo)	1 E / 1 S (según modelo)
+	Protección	IP55	IP66	IP66
+	PoE	802.3at	802.3af	802.3af
+	Consumo	25 W máx	18 W máx	15 W máx
+	Temp. Operación	-30 °C a +50 °C	-30 °C a +60 °C	-30 °C a +60 °C
+	Precio Ref. (USD)	"$1,650"	$260	$210
+				
+	6. Turrón (Box)			
+	Cuerpo modular con lente intercambiable; máxima flexibilidad óptica			
+	Especificación	"Axis Communications
+AXIS P1377"	"Hikvision
+DS-2CD6047FWD-A"	"Dahua Technology
+DH-IPC-HF82350E"
+	Nivel	Premium	Medio	Medio
+	Resolución	4 MP	4 MP	4 MP
+	Resolución Máx.	2560 × 1440	2560 × 1440	2560 × 1440
+	Sensor	"1/2.8"" Sony Starvis"	"1/3"" CMOS"	"1/1.8"" CMOS"
+	Lente	C/CS — lente no incluida	C/CS — lente no incluida	C/CS — lente no incluida
+	Visión Nocturna	Según lente instalada	Según lente instalada	Según lente instalada
+	WDR	Forensic WDR	WDR 120 dB	WDR 120 dB
+	Analíticas IA	AXIS Object Analytics	Analíticas básicas	IVS + analíticas
+	Audio	E/S (según modelo)	1 E / 1 S (según modelo)	1 E / 1 S (según modelo)
+	Protección	IP52 (interior)	Interior	Interior
+	PoE	802.3af	802.3af	802.3af
+	Consumo	5 W máx	6 W máx	8 W máx
+	Temp. Operación	-30 °C a +50 °C	-30 °C a +60 °C	-30 °C a +60 °C
+	Precio Ref. (USD)	$590	$185	$190
+				
+	7. Ojo de Pez (Fisheye)			
+	Lente 360° con vista panorámica desenvuelta (ePTZ)			
+	Especificación	"Axis Communications
+AXIS M3075-PLVE"	"Hanwha Vision (Wisenet)
+XNF-9010RW"	"Uniview (UNV)
+IPC868ER-VF18-B-M"
+	Nivel	Premium	Premium	Medio
+	Resolución	12 MP	12 MP	12 MP
+	Resolución Máx.	4000 × 3000 (360°)	4000 × 3000 (360°)	4000 × 3000 (360°)
+	Sensor	"1/2.3"" CMOS"	"1/1.8"" CMOS"	"1/2.8"" CMOS"
+	Lente	1.4 mm fijo — 360°	1.05 mm fijo — 360°	1.05 mm fijo — 360°
+	Visión Nocturna	IR integrada 5 m	IR 15 m	IR 10 m
+	WDR	WDR	WDR	WDR 120 dB
+	Analíticas IA	Panorámica dewarped + analíticas	Panorámica dewarped	Panorámica dewarped
+	Audio	E/S (según modelo)	E/S integrada	1 E / 1 S (según modelo)
+	Protección	IP66 / IK10	IP66	IK10 / IP66
+	PoE	802.3at	802.3af	802.3af
+	Consumo	10 W máx	12 W máx	10 W máx
+	Temp. Operación	-30 °C a +50 °C	-30 °C a +55 °C	-30 °C a +60 °C
+	Precio Ref. (USD)	$990	$890	$160
+				
+	8. Multisensor / Panorámica			
+	Varios sensores en un solo cuerpo; cobertura 180° sin distorsión			
+	Especificación	"Axis Communications
+AXIS P3727-PLE"	"Pelco (Motorola)
+IME419-4MS"	"Hikvision
+DS-2CD6W425G0E-10"
+	Nivel	Premium	Premium	Medio
+	Resolución	32 MP (4× 8 MP)	32 MP (4× 8 MP)	32 MP (4× 8 MP)
+	Resolución Máx.	4× 3840 × 2160	4× 3840 × 2160	4× 3840 × 2160
+	Sensor	"4× 1/2.8"" Sony Starvis"	3× CMOS	4× CMOS + PTZ
+	Lente	4× varifocal integrada	3× lentes integradas	4× fijas + zoom 36×
+	Visión Nocturna	IR 30 m	—	IR 100 m
+	WDR	WDR	WDR	WDR
+	Analíticas IA	Multidireccional independiente por sensor	Panorámica 180° cosida sin distorsión	PanoVu — panorámica + PTZ combinados
+	Audio	E/S (según modelo)	E/S integrada	1 E / 1 S (según modelo)
+	Protección	IP66 / IK10	IP66	IP66
+	PoE	802.3at	802.3at	802.3at
+	Consumo	25 W máx	30 W máx	60 W máx
+	Temp. Operación	-30 °C a +50 °C	-30 °C a +60 °C	-30 °C a +60 °C
+	Precio Ref. (USD)	"$3,290"	"$4,200"	"$1,900"
+				
+	9. Oculta (Pinhole)			
+	"Diseño oculto para vigilancia discreta (cajeros, recepciones)"			
+	Especificación	"Axis Communications
+AXIS P1275"	"Hikvision
+DS-2CD6412FWD-C/NF"	"Dahua Technology
+DH-IPC-C22EP"
+	Nivel	Premium	Medio	Medio
+	Resolución	4 MP	4 MP	4 MP
+	Resolución Máx.	2560 × 1440	2560 × 1440	2560 × 1440
+	Sensor	"1/2.8"" CMOS"	"1/2.8"" CMOS"	"1/2.8"" CMOS"
+	Lente	Pinhole C/CS (opcional)	Pinhole fija	Pinhole fija 3.6 mm
+	Visión Nocturna	Según lente instalada	—	—
+	WDR	WDR	WDR 120 dB	WDR 120 dB
+	Analíticas IA	Vigilancia discreta	Vigilancia discreta	Vigilancia discreta
+	Audio	E/S (según modelo)	1 E / 1 S (según modelo)	1 E / 1 S (según modelo)
+	Protección	Interior	Interior	Interior
+	PoE	802.3af	802.3af	802.3af
+	Consumo	4.5 W máx	4 W máx	3.5 W máx
+	Temp. Operación	-30 °C a +50 °C	-30 °C a +60 °C	-30 °C a +60 °C
+	Precio Ref. (USD)	$520	$150	$75
+				
+	10. Térmica			
+	"Detección por calor; perimetral en oscuridad total, niebla y humo"			
+	Especificación	"Axis Communications
+AXIS Q1971-E 35 mm"	"Bosch Security Systems
+MIC IP thermal 7100i (95 mm)"	"Hikvision
+DS-2TD2617-10/PA"
+	Nivel	Premium	Premium	Medio
+	Resolución	Térmico 640 × 480	Térmico 640 × 480	Térmico 640 × 480
+	Resolución Máx.	640 × 480 px	640 × 480 px	640 × 480 px
+	Sensor	Microbolómetro LWIR	Microbolómetro LWIR	Microbolómetro + CMOS
+	Lente	60 mm fijo	35/60/95 mm (según versión)	13 mm
+	Visión Nocturna	Detección térmica 460 m	Detección térmica 1.2 km	Detección térmica 500 m
+	WDR	—	—	—
+	Analíticas IA	Detección de movimiento y cruces de línea	PTZ térmico + analíticas perimetrales	Termografía + alarma de temperatura
+	Audio	E/S (según modelo)	E/S integrada	1 E / 1 S (según modelo)
+	Protección	IP66 / NEMA 4X	IP66 / IK10	IP66
+	PoE	802.3at	802.3at	802.3at
+	Consumo	25 W máx	65 W máx	20 W máx
+	Temp. Operación	-30 °C a +50 °C	-30 °C a +55 °C	-30 °C a +60 °C
+	Precio Ref. (USD)	"$7,900"	"$11,500"	"$1,450"
+				
+	11. LPR (Matrículas)			
+	Optimizada para la lectura de matrículas vehiculares (ANPR)			
+	Especificación	"Axis Communications
+AXIS P1468-LE"	"Hikvision
+DS-2CD4A85FWD-IZHS"	"Dahua Technology
+DH-ITC413-PV1.0"
+	Nivel	Premium	Medio	Medio
+	Resolución	8 MP (4K)	8 MP (4K)	8 MP (4K)
+	Resolución Máx.	3840 × 2160	3840 × 2160	3840 × 2160
+	Sensor	"1/2"" CMOS"	"1/1.8"" CMOS"	"1/2.8"" CMOS"
+	Lente	4.3–10 mm varifocal	8–32 mm varifocal	Optimizada matrículas
+	Visión Nocturna	IR 30 m	IR 50 m — obturador rápido	Iluminador integrado — obturador rápido
+	WDR	Forensic WDR	WDR 120 dB	WDR 120 dB
+	Analíticas IA	AXIS License Plate Verifier	Smart ANPR (matrículas integrado)	Smart ANPR integrado
+	Audio	E/S (según modelo)	1 E / 1 S (según modelo)	1 E / 1 S (según modelo)
+	Protección	IP66 / IK10	IP66	IP66
+	PoE	802.3at	802.3at	802.3af
+	Consumo	30 W máx	20 W máx	12 W máx
+	Temp. Operación	-30 °C a +50 °C	-30 °C a +60 °C	-30 °C a +60 °C
+	Precio Ref. (USD)	"$3,480"	$550	$420
+				
+	12. Dual-Lente			
+	Dos sensores independientes (tele + panorámica u óptica + térmica)			
+	Especificación	"Hikvision
+DS-2SE6C432MW-DE"	"Uniview (UNV)
+IPC864SB-DF40KM-2I0"	"Reolink
+RLC-Duo 3 PoE"
+	Nivel	Medio	Medio	Económico
+	Resolución	16 MP (2× 8 MP)	16 MP (2× 8 MP)	16 MP (2× 8 MP)
+	Resolución Máx.	2× 3840 × 2160	2× 3840 × 2160	2× 3840 × 2160
+	Sensor	"2× 1/2.8"" CMOS"	2× CMOS	"2× 1/2.8"" CMOS"
+	Lente	Tele + panorámica integradas	Fija gran angular + PTZ 25×	Dual panorámica 180°
+	Visión Nocturna	IR 50 m	IR dual (fija 30 m / PTZ 100 m)	IR 15 m
+	WDR	WDR 120 dB	WDR 120 dB	WDR
+	Analíticas IA	TandemVu — vista panorámica + tele simultáneas	Dual-lente — vista fija + PTZ simultáneos	Vista panorámica dual + IA
+	Audio	1 E / 1 S (según modelo)	1 E / 1 S (según modelo)	Micrófono integrado
+	Protección	IP67	IP66	IP66
+	PoE	802.3at	802.3at	802.3af
+	Consumo	25 W máx	40 W máx	12 W máx
+	Temp. Operación	-30 °C a +60 °C	-30 °C a +60 °C	-20 °C a +55 °C
+	Precio Ref. (USD)	$620	$690	$130
+				
+	13. IA Integrada			
+	"Analíticas de deep learning en el borde (personas, vehículos, rostros)"			
+	Especificación	"Avigilon (Motorola)
+H6A-B2"	"Hikvision
+DS-2CD2147G2H-LU"	"Reolink
+RLC-842A"
+	Nivel	Premium	Medio	Económico
+	Resolución	4 MP	4 MP	4 MP
+	Resolución Máx.	2560 × 1440	2560 × 1440	2560 × 1440
+	Sensor	"1/2.8"" CMOS"	"1/1.8"" CMOS"	"1/2.8"" CMOS"
+	Lente	3–9 mm varifocal	8–32 mm varifocal	2.8–8 mm motorizada
+	Visión Nocturna	IR 30 m	IR 50 m	IR 30 m
+	WDR	WDR	WDR 120 dB	WDR
+	Analíticas IA	Appearance Search + reconocimiento facial (IA)	"DeepinView — rostros, atributos y matrículas (IA)"	IA en el borde — personas/vehículos
+	Audio	E/S integrada	1 E / 1 S (según modelo)	Micrófono integrado
+	Protección	IK10	IP66	IP66
+	PoE	802.3af	802.3at	802.3af
+	Consumo	12 W máx	20 W máx	12 W máx
+	Temp. Operación	-40 °C a +50 °C	-30 °C a +60 °C	-20 °C a +55 °C
+	Precio Ref. (USD)	$890	$480	$95
+				
+	14. Interior WiFi			
+	"Cámara consumer WiFi para hogar u oficina, instalación DIY"			
+	Especificación	"Bosch Security Systems
+Bosch Smart Home Eyes II (interior)"	"Honeywell Security
+Resideo VistaCam 700"	"EZVIZ (Hikvision)
+CS-C6N"
+	Nivel	Premium	Premium	Económico
+	Resolución	4 MP	4 MP	4 MP
+	Resolución Máx.	2560 × 1440	2560 × 1440	2560 × 1440
+	Sensor	CMOS	CMOS	"1/2.7"" CMOS"
+	Lente	Gran angular 180°	Gran angular 145°	Pan 340° / tilt 100°
+	Visión Nocturna	IR 5 m	IR 5 m	IR 10 m
+	WDR	—	—	—
+	Analíticas IA	Detección de personas (app Bosch Smart Home)	Detección de personas/movimiento (app Lyric)	Detección de movimiento + audio bidireccional
+	Audio	Micrófono/altavoz integrado	Micrófono/altavoz integrado	Micrófono/altavoz integrado
+	Protección	Interior	Interior	Interior
+	PoE	WiFi 2.4/5 GHz	WiFi 2.4 GHz	WiFi 2.4 GHz
+	Consumo	5 W máx	5 W máx	3.5 W máx
+	Temp. Operación	0 °C a +40 °C	0 °C a +40 °C	-20 °C a +50 °C
+	Precio Ref. (USD)	$200	$130	$35
