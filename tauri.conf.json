@@ -1,0 +1,38 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "CCTV DESIGN PRO",
+  "version": "1.0.0",
+  "identifier": "pro.cctvdesign.desktop",
+  "build": {
+    "frontendDist": "../web",
+    "beforeBuildCommand": "",
+    "beforeDevCommand": ""
+  },
+  "app": {
+    "withGlobalTauri": true,
+    "windows": [
+      {
+        "title": "CCTV DESIGN PRO — diseño y cálculo de sistemas CCTV",
+        "width": 1440,
+        "height": 900,
+        "minWidth": 1100,
+        "minHeight": 700,
+        "resizable": true,
+        "maximized": false,
+        "decorations": true
+      }
+    ],
+    "security": {
+      "csp": null
+    }
+  },
+  "bundle": {
+    "active": false,
+    "targets": [],
+    "icon": ["icons/icon.ico"],
+    "resources": [],
+    "category": "Utility",
+    "shortDescription": "Diseño, cálculo y documentación de sistemas CCTV",
+    "longDescription": "Software independiente y offline para diseño, cálculo, presupuesto y documentación de sistemas de videovigilancia (CP CCTV CCTV-SW-001)."
+  }
+}

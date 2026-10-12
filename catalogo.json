@@ -1,0 +1,1442 @@
+{
+ "version": 1,
+ "currency": "EUR",
+ "updated": "2026-09-28",
+ "items": [
+  {
+   "unit": "ud",
+   "price": 62,
+   "stock": true,
+   "id": "CAM-2MP-BULLET",
+   "category": "camera",
+   "manufacturer": "ProVision",
+   "model": "PV-B240",
+   "name": "Bullet 2 MP IR 30 m",
+   "specs": {
+    "mp": 2,
+    "resW": 1920,
+    "resH": 1080,
+    "sensorW": 6.4,
+    "sensorH": 3.6,
+    "lens": 2.8,
+    "focalOptions": [
+     2.8,
+     4,
+     6
+    ],
+    "fps": 25,
+    "codec": "H.265",
+    "bitrate": 2048,
+    "poe": true,
+    "power": 5.5,
+    "poeClass": "2",
+    "ip": "IP67",
+    "ik": "IK10",
+    "ir": 30,
+    "wdr": true,
+    "form": "bullet"
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 98,
+   "stock": true,
+   "id": "CAM-4MP-BULLET",
+   "category": "camera",
+   "manufacturer": "ProVision",
+   "model": "PV-B460",
+   "name": "Bullet 4 MP IR 60 m",
+   "specs": {
+    "mp": 4,
+    "resW": 2560,
+    "resH": 1440,
+    "sensorW": 6.4,
+    "sensorH": 3.6,
+    "lens": 4,
+    "focalOptions": [
+     2.8,
+     4,
+     6,
+     8
+    ],
+    "fps": 25,
+    "codec": "H.265",
+    "bitrate": 4096,
+    "poe": true,
+    "power": 8,
+    "poeClass": "3",
+    "ip": "IP67",
+    "ik": "IK10",
+    "ir": 60,
+    "wdr": true,
+    "form": "bullet"
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 105,
+   "stock": true,
+   "id": "CAM-4MP-DOME",
+   "category": "camera",
+   "manufacturer": "ProVision",
+   "model": "PV-D430",
+   "name": "Domo antivandálico 4 MP IR 30 m",
+   "specs": {
+    "mp": 4,
+    "resW": 2560,
+    "resH": 1440,
+    "sensorW": 6.4,
+    "sensorH": 3.6,
+    "lens": 2.8,
+    "focalOptions": [
+     2.8,
+     4,
+     6
+    ],
+    "fps": 25,
+    "codec": "H.265",
+    "bitrate": 4096,
+    "poe": true,
+    "power": 7,
+    "poeClass": "3",
+    "ip": "IP66",
+    "ik": "IK10",
+    "ir": 30,
+    "wdr": true,
+    "form": "dome"
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 210,
+   "stock": true,
+   "id": "CAM-8MP-BULLET",
+   "category": "camera",
+   "manufacturer": "ProVision",
+   "model": "PV-B880",
+   "name": "Bullet 4K 8 MP IR 80 m",
+   "specs": {
+    "mp": 8,
+    "resW": 3840,
+    "resH": 2160,
+    "sensorW": 8.8,
+    "sensorH": 4.95,
+    "lens": 4,
+    "focalOptions": [
+     2.8,
+     4,
+     6,
+     8,
+     12
+    ],
+    "fps": 20,
+    "codec": "H.265",
+    "bitrate": 8192,
+    "poe": true,
+    "power": 12,
+    "poeClass": "4",
+    "ip": "IP67",
+    "ik": "IK10",
+    "ir": 80,
+    "wdr": true,
+    "form": "bullet",
+    "analytics": [
+     "linecross",
+     "intrusion",
+     "loiter",
+     "count",
+     "abandoned"
+    ]
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 165,
+   "stock": true,
+   "id": "CAM-4MP-VARIO",
+   "category": "camera",
+   "manufacturer": "ProVision",
+   "model": "PV-V428",
+   "name": "Bullet 4 MP varifocal 2,8–12 mm",
+   "specs": {
+    "mp": 4,
+    "resW": 2560,
+    "resH": 1440,
+    "sensorW": 6.4,
+    "sensorH": 3.6,
+    "lens": 6,
+    "focalOptions": [
+     2.8,
+     4,
+     6,
+     8,
+     12
+    ],
+    "varifocal": true,
+    "fps": 25,
+    "codec": "H.265",
+    "bitrate": 4096,
+    "poe": true,
+    "power": 9,
+    "poeClass": "3",
+    "ip": "IP67",
+    "ik": "IK10",
+    "ir": 50,
+    "wdr": true,
+    "form": "bullet",
+    "analytics": [
+     "linecross",
+     "intrusion",
+     "loiter"
+    ]
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 780,
+   "stock": true,
+   "id": "CAM-PTZ-4MP",
+   "category": "camera",
+   "manufacturer": "ProVision",
+   "model": "PV-P425",
+   "name": "PTZ 4 MP zoom 25×",
+   "specs": {
+    "mp": 4,
+    "resW": 2560,
+    "resH": 1440,
+    "sensorW": 6.4,
+    "sensorH": 3.6,
+    "lens": 6,
+    "focalOptions": [
+     4.8,
+     6,
+     12,
+     30,
+     60,
+     120
+    ],
+    "varifocal": true,
+    "ptz": true,
+    "fps": 25,
+    "codec": "H.265",
+    "bitrate": 6144,
+    "poe": true,
+    "power": 30,
+    "poeClass": "4",
+    "ip": "IP66",
+    "ik": "IK10",
+    "ir": 150,
+    "wdr": true,
+    "form": "ptz",
+    "analytics": [
+     "linecross",
+     "intrusion",
+     "loiter",
+     "autotrack"
+    ],
+    "panRange": [
+     0,
+     360
+    ],
+    "tiltRange": [
+     -15,
+     90
+    ],
+    "speedPan": 120,
+    "speedTilt": 80,
+    "presets": 255
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 690,
+   "stock": true,
+   "id": "CAM-LPR-4MP",
+   "category": "camera",
+   "manufacturer": "Nexa",
+   "model": "NX-LPR42",
+   "name": "Lector de matrículas 4 MP",
+   "specs": {
+    "mp": 4,
+    "resW": 2560,
+    "resH": 1440,
+    "sensorW": 6.4,
+    "sensorH": 3.6,
+    "lens": 12,
+    "focalOptions": [
+     8,
+     12,
+     16,
+     25
+    ],
+    "varifocal": true,
+    "lpr": true,
+    "fps": 30,
+    "codec": "H.265",
+    "bitrate": 4096,
+    "poe": true,
+    "power": 14,
+    "poeClass": "4",
+    "ip": "IP67",
+    "ik": "IK10",
+    "ir": 40,
+    "wdr": true,
+    "form": "bullet",
+    "analytics": [
+     "linecross",
+     "lpr"
+    ],
+    "lprDistance": [
+     3,
+     25
+    ],
+    "plateWidth": 0.52
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 320,
+   "stock": true,
+   "id": "CAM-FISHEYE-6MP",
+   "category": "camera",
+   "manufacturer": "Nexa",
+   "model": "NX-F636",
+   "name": "Fisheye 360° 6 MP",
+   "specs": {
+    "mp": 6,
+    "resW": 3072,
+    "resH": 2048,
+    "sensorW": 7.2,
+    "sensorH": 4.8,
+    "lens": 1.4,
+    "focalOptions": [
+     1.4
+    ],
+    "fisheye": true,
+    "fps": 20,
+    "codec": "H.265",
+    "bitrate": 8192,
+    "poe": true,
+    "power": 10,
+    "poeClass": "4",
+    "ip": "IP66",
+    "ik": "IK10",
+    "ir": 10,
+    "wdr": true,
+    "form": "fisheye"
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 45,
+   "stock": true,
+   "id": "CAM-ANAL-2MP",
+   "category": "camera",
+   "manufacturer": "OptiCam",
+   "model": "OC-A210",
+   "name": "Analógica HD 2 MP (coaxial)",
+   "specs": {
+    "mp": 2,
+    "resW": 1920,
+    "resH": 1080,
+    "sensorW": 6.4,
+    "sensorH": 3.6,
+    "lens": 3.6,
+    "focalOptions": [
+     2.8,
+     3.6,
+     6
+    ],
+    "fps": 25,
+    "codec": "-",
+    "bitrate": 0,
+    "poe": false,
+    "power": 4,
+    "analog": true,
+    "ip": "IP66",
+    "ik": "-",
+    "ir": 20,
+    "wdr": false,
+    "form": "dome"
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 215,
+   "stock": true,
+   "id": "NVR-8",
+   "category": "nvr",
+   "manufacturer": "ProVision",
+   "model": "PV-N0816",
+   "name": "NVR 8 canales · 1 bahía",
+   "specs": {
+    "channels": 8,
+    "maxMbps": 80,
+    "bays": 1,
+    "maxDiskTB": 10,
+    "poePorts": 0,
+    "rackU": 1,
+    "power": 15
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 340,
+   "stock": true,
+   "id": "NVR-16",
+   "category": "nvr",
+   "manufacturer": "ProVision",
+   "model": "PV-N1624",
+   "name": "NVR 16 canales · 2 bahías",
+   "specs": {
+    "channels": 16,
+    "maxMbps": 160,
+    "bays": 2,
+    "maxDiskTB": 12,
+    "poePorts": 0,
+    "rackU": 1,
+    "power": 20
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 470,
+   "stock": true,
+   "id": "NVR-16P",
+   "category": "nvr",
+   "manufacturer": "ProVision",
+   "model": "PV-N1624P",
+   "name": "NVR 16 canales · 16 puertos PoE",
+   "specs": {
+    "channels": 16,
+    "maxMbps": 160,
+    "bays": 2,
+    "maxDiskTB": 12,
+    "poePorts": 16,
+    "poeBudget": 150,
+    "rackU": 1,
+    "power": 25
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 690,
+   "stock": true,
+   "id": "NVR-32",
+   "category": "nvr",
+   "manufacturer": "ProVision",
+   "model": "PV-N3248",
+   "name": "NVR 32 canales · 4 bahías",
+   "specs": {
+    "channels": 32,
+    "maxMbps": 320,
+    "bays": 4,
+    "maxDiskTB": 14,
+    "poePorts": 0,
+    "rackU": 2,
+    "power": 35
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 1290,
+   "stock": true,
+   "id": "NVR-64",
+   "category": "nvr",
+   "manufacturer": "ProVision",
+   "model": "PV-N6496",
+   "name": "NVR 64 canales · 8 bahías",
+   "specs": {
+    "channels": 64,
+    "maxMbps": 640,
+    "bays": 8,
+    "maxDiskTB": 16,
+    "poePorts": 0,
+    "rackU": 2,
+    "power": 55
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 92,
+   "stock": true,
+   "id": "SW-8P",
+   "category": "switch_poe",
+   "manufacturer": "Nexa",
+   "model": "NX-SW8P",
+   "name": "Switch PoE 8 puertos · 65 W",
+   "specs": {
+    "ports": 8,
+    "poePorts": 8,
+    "poeBudget": 65,
+    "poeStandard": "802.3af",
+    "uplink": 1,
+    "gbps": 1,
+    "rackU": 0.5,
+    "power": 10
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 185,
+   "stock": true,
+   "id": "SW-16P",
+   "category": "switch_poe",
+   "manufacturer": "Nexa",
+   "model": "NX-SW16P",
+   "name": "Switch PoE 16 puertos · 150 W",
+   "specs": {
+    "ports": 16,
+    "poePorts": 16,
+    "poeBudget": 150,
+    "poeStandard": "802.3at",
+    "uplink": 2,
+    "gbps": 1,
+    "rackU": 1,
+    "power": 15
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 320,
+   "stock": true,
+   "id": "SW-24P",
+   "category": "switch_poe",
+   "manufacturer": "Nexa",
+   "model": "NX-SW24P",
+   "name": "Switch PoE 24 puertos · 370 W",
+   "specs": {
+    "ports": 24,
+    "poePorts": 24,
+    "poeBudget": 370,
+    "poeStandard": "802.3at",
+    "uplink": 4,
+    "gbps": 1,
+    "rackU": 1,
+    "power": 22
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 545,
+   "stock": true,
+   "id": "SW-24P-PRO",
+   "category": "switch_poe",
+   "manufacturer": "Nexa",
+   "model": "NX-SW24PA",
+   "name": "Switch PoE+ 24 puertos gestionable · 400 W",
+   "specs": {
+    "ports": 24,
+    "poePorts": 24,
+    "poeBudget": 400,
+    "poeStandard": "802.3at",
+    "uplink": 4,
+    "gbps": 1,
+    "managed": true,
+    "rackU": 1,
+    "power": 26
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 42,
+   "stock": true,
+   "id": "SW-8",
+   "category": "switch",
+   "manufacturer": "Nexa",
+   "model": "NX-SW8G",
+   "name": "Switch 8 puertos Gigabit (sin PoE)",
+   "specs": {
+    "ports": 8,
+    "poePorts": 0,
+    "poeBudget": 0,
+    "uplink": 1,
+    "gbps": 1,
+    "rackU": 0.5,
+    "power": 6
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 138,
+   "stock": true,
+   "id": "SW-FIBER",
+   "category": "switch",
+   "manufacturer": "Nexa",
+   "model": "NX-SW8F",
+   "name": "Switch 8 puertos + 2 SFP (agregación)",
+   "specs": {
+    "ports": 8,
+    "poePorts": 0,
+    "poeBudget": 0,
+    "sfp": 2,
+    "uplink": 2,
+    "gbps": 1,
+    "rackU": 1,
+    "power": 12
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 88,
+   "stock": true,
+   "id": "RT-GW",
+   "category": "router",
+   "manufacturer": "Nexa",
+   "model": "NX-GW12",
+   "name": "Router / pasarela 1 Gbps",
+   "specs": {
+    "ports": 4,
+    "gbps": 1,
+    "rackU": 1,
+    "power": 12
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 240,
+   "stock": true,
+   "id": "RT-VPN",
+   "category": "router",
+   "manufacturer": "Nexa",
+   "model": "NX-GW30",
+   "name": "Router VPN 4 puertos Gigabit",
+   "specs": {
+    "ports": 4,
+    "gbps": 1,
+    "vpn": true,
+    "rackU": 1,
+    "power": 18
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 34,
+   "stock": true,
+   "id": "PP-24",
+   "category": "patchpanel",
+   "manufacturer": "Nexa",
+   "model": "NX-PP24",
+   "name": "Patch panel 24 puertos Cat6 1U",
+   "specs": {
+    "ports": 24,
+    "rackU": 1,
+    "power": 0
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 22,
+   "stock": true,
+   "id": "PP-12",
+   "category": "patchpanel",
+   "manufacturer": "Nexa",
+   "model": "NX-PP12",
+   "name": "Patch panel 12 puertos Cat6 1U",
+   "specs": {
+    "ports": 12,
+    "rackU": 1,
+    "power": 0
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 12,
+   "stock": true,
+   "id": "ORG-1U",
+   "category": "accessory",
+   "manufacturer": "Nexa",
+   "model": "NX-ORG1",
+   "name": "Organizador horizontal 1U",
+   "specs": {
+    "rackU": 1,
+    "power": 0
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 520,
+   "stock": true,
+   "id": "RACK-42",
+   "category": "rack",
+   "manufacturer": "Nexa",
+   "model": "NX-RK42",
+   "name": "Rack 19\" 42U 800×800",
+   "specs": {
+    "u": 42,
+    "depth": 800,
+    "maxLoad": 800
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 260,
+   "stock": true,
+   "id": "RACK-22",
+   "category": "rack",
+   "manufacturer": "Nexa",
+   "model": "NX-RK22",
+   "name": "Rack 19\" 22U mural 600×600",
+   "specs": {
+    "u": 22,
+    "depth": 600,
+    "maxLoad": 60
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 145,
+   "stock": true,
+   "id": "RACK-12",
+   "category": "rack",
+   "manufacturer": "Nexa",
+   "model": "NX-RK12",
+   "name": "Rack 19\" 12U mural 600×450",
+   "specs": {
+    "u": 12,
+    "depth": 450,
+    "maxLoad": 40
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 108,
+   "stock": true,
+   "id": "RACK-9",
+   "category": "rack",
+   "manufacturer": "Nexa",
+   "model": "NX-RK09",
+   "name": "Rack 19\" 9U mural 550×450",
+   "specs": {
+    "u": 9,
+    "depth": 450,
+    "maxLoad": 30
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 165,
+   "stock": true,
+   "id": "UPS-850",
+   "category": "ups",
+   "manufacturer": "Nexa",
+   "model": "NX-UPS850",
+   "name": "UPS 850 VA · 510 W",
+   "specs": {
+    "va": 850,
+    "watts": 510,
+    "rackU": 2,
+    "power": 0
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 285,
+   "stock": true,
+   "id": "UPS-1500",
+   "category": "ups",
+   "manufacturer": "Nexa",
+   "model": "NX-UPS1500",
+   "name": "UPS 1500 VA · 900 W",
+   "specs": {
+    "va": 1500,
+    "watts": 900,
+    "rackU": 2,
+    "power": 0
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 690,
+   "stock": true,
+   "id": "UPS-3000",
+   "category": "ups",
+   "manufacturer": "Nexa",
+   "model": "NX-UPS3000",
+   "name": "UPS 3000 VA · 2700 W rack",
+   "specs": {
+    "va": 3000,
+    "watts": 2700,
+    "rackU": 3,
+    "power": 0
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 78,
+   "stock": true,
+   "id": "HDD-2TB",
+   "category": "disk",
+   "manufacturer": "VigilStore",
+   "model": "VS-2TB",
+   "name": "HDD vigilancia 2 TB",
+   "specs": {
+    "tb": 2
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 112,
+   "stock": true,
+   "id": "HDD-4TB",
+   "category": "disk",
+   "manufacturer": "VigilStore",
+   "model": "VS-4TB",
+   "name": "HDD vigilancia 4 TB",
+   "specs": {
+    "tb": 4
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 158,
+   "stock": true,
+   "id": "HDD-6TB",
+   "category": "disk",
+   "manufacturer": "VigilStore",
+   "model": "VS-6TB",
+   "name": "HDD vigilancia 6 TB",
+   "specs": {
+    "tb": 6
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 198,
+   "stock": true,
+   "id": "HDD-8TB",
+   "category": "disk",
+   "manufacturer": "VigilStore",
+   "model": "VS-8TB",
+   "name": "HDD vigilancia 8 TB",
+   "specs": {
+    "tb": 8
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 245,
+   "stock": true,
+   "id": "HDD-10TB",
+   "category": "disk",
+   "manufacturer": "VigilStore",
+   "model": "VS-10TB",
+   "name": "HDD vigilancia 10 TB",
+   "specs": {
+    "tb": 10
+   }
+  },
+  {
+   "unit": "bobina",
+   "price": 96,
+   "stock": true,
+   "id": "CBL-UTP6",
+   "category": "cable",
+   "manufacturer": "Nexa",
+   "model": "NX-U6PVC",
+   "name": "Cable U/UTP Cat6 PVC — bobina 305 m",
+   "specs": {
+    "category": "Cat6",
+    "metersPerUnit": 305,
+    "shielded": false,
+    "maxLink": 90
+   }
+  },
+  {
+   "unit": "bobina",
+   "price": 148,
+   "stock": true,
+   "id": "CBL-UTP6A",
+   "category": "cable",
+   "manufacturer": "Nexa",
+   "model": "NX-U6ALSZH",
+   "name": "Cable U/UTP Cat6A LSZH — bobina 305 m",
+   "specs": {
+    "category": "Cat6A",
+    "metersPerUnit": 305,
+    "shielded": false,
+    "maxLink": 90
+   }
+  },
+  {
+   "unit": "bobina",
+   "price": 132,
+   "stock": true,
+   "id": "CBL-FTP6",
+   "category": "cable",
+   "manufacturer": "Nexa",
+   "model": "NX-F6EXT",
+   "name": "Cable F/UTP Cat6 exterior gel — bobina 305 m",
+   "specs": {
+    "category": "Cat6",
+    "metersPerUnit": 305,
+    "shielded": true,
+    "maxLink": 90
+   }
+  },
+  {
+   "unit": "rollo",
+   "price": 88,
+   "stock": true,
+   "id": "CBL-COAX",
+   "category": "cable",
+   "manufacturer": "Nexa",
+   "model": "NX-RG59P",
+   "name": "Cable coaxial RG59 + alimentación — rollo 305 m",
+   "specs": {
+    "metersPerUnit": 305,
+    "maxLink": 300
+   }
+  },
+  {
+   "unit": "m",
+   "price": 2.4,
+   "stock": true,
+   "id": "CBL-FO-MM",
+   "category": "fiber",
+   "manufacturer": "Nexa",
+   "model": "NX-OM3-2",
+   "name": "Fibra OM3 multimodo 2 hilos — metro",
+   "specs": {
+    "metersPerUnit": 1,
+    "maxLink": 550,
+    "fiber": "MM",
+    "atten": 3.5
+   }
+  },
+  {
+   "unit": "m",
+   "price": 1.9,
+   "stock": true,
+   "id": "CBL-FO-SM",
+   "category": "fiber",
+   "manufacturer": "Nexa",
+   "model": "NX-OS2-2",
+   "name": "Fibra OS2 monomodo 2 hilos — metro",
+   "specs": {
+    "metersPerUnit": 1,
+    "maxLink": 10000,
+    "fiber": "SM",
+    "atten": 0.35
+   }
+  },
+  {
+   "unit": "bolsa",
+   "price": 24,
+   "stock": true,
+   "id": "CON-RJ45",
+   "category": "connector",
+   "manufacturer": "Nexa",
+   "model": "NX-RJ45C6",
+   "name": "Conector RJ45 Cat6 (bolsa 100)",
+   "specs": {
+    "perUnit": 100
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 1.6,
+   "stock": true,
+   "id": "CON-KEY",
+   "category": "connector",
+   "manufacturer": "Nexa",
+   "model": "NX-KEY6",
+   "name": "Keystone Cat6",
+   "specs": {}
+  },
+  {
+   "unit": "ud",
+   "price": 2.2,
+   "stock": true,
+   "id": "ACC-PATCH1",
+   "category": "accessory",
+   "manufacturer": "Nexa",
+   "model": "NX-PC1",
+   "name": "Latiguillo Cat6 1 m",
+   "specs": {}
+  },
+  {
+   "unit": "ud",
+   "price": 2.8,
+   "stock": true,
+   "id": "ACC-PATCH2",
+   "category": "accessory",
+   "manufacturer": "Nexa",
+   "model": "NX-PC2",
+   "name": "Latiguillo Cat6 2 m",
+   "specs": {}
+  },
+  {
+   "unit": "ud",
+   "price": 32,
+   "stock": true,
+   "id": "ACC-SFP",
+   "category": "fiber",
+   "manufacturer": "Nexa",
+   "model": "NX-SFP-MM",
+   "name": "Transceptor SFP 1 G multimodo 850 nm · 550 m",
+   "specs": {
+    "sfpType": "MM",
+    "maxDist": 550,
+    "budget": 7.5
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 46,
+   "stock": true,
+   "id": "ACC-SFP-SM",
+   "category": "fiber",
+   "manufacturer": "Nexa",
+   "model": "NX-SFP-SM10",
+   "name": "Transceptor SFP 1 G monomodo 1310 nm · 10 km",
+   "specs": {
+    "sfpType": "SM",
+    "maxDist": 10000,
+    "budget": 11
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 96,
+   "stock": true,
+   "id": "ACC-SFP-LH",
+   "category": "fiber",
+   "manufacturer": "Nexa",
+   "model": "NX-SFP-LH40",
+   "name": "Transceptor SFP 1 G monomodo 1550 nm · 40 km",
+   "specs": {
+    "sfpType": "LH",
+    "maxDist": 40000,
+    "budget": 20
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 38,
+   "stock": true,
+   "id": "ACC-MC",
+   "category": "fiber",
+   "manufacturer": "Nexa",
+   "model": "NX-MC1G",
+   "name": "Conversor de medio 1 G RJ45 ↔ SFP",
+   "specs": {}
+  },
+  {
+   "unit": "ud",
+   "price": 54,
+   "stock": true,
+   "id": "ACC-ODF",
+   "category": "fiber",
+   "manufacturer": "Nexa",
+   "model": "NX-ODF12",
+   "name": "Panel de fibra (ODF) 12 puertos 1U",
+   "specs": {
+    "rackU": 1,
+    "ports": 12
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 4.6,
+   "stock": true,
+   "id": "ACC-FO-PIG",
+   "category": "fiber",
+   "manufacturer": "Nexa",
+   "model": "NX-PIG-LC",
+   "name": "Latiguillo de fibra LC 2 m",
+   "specs": {}
+  },
+  {
+   "unit": "bolsa",
+   "price": 12,
+   "stock": true,
+   "id": "ACC-FO-SPL",
+   "category": "fiber",
+   "manufacturer": "Nexa",
+   "model": "NX-SPL-100",
+   "name": "Protector de empalme (bolsa 100)",
+   "specs": {
+    "perUnit": 100
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 68,
+   "stock": true,
+   "id": "CAM-A-1080-BULLET",
+   "category": "camera",
+   "manufacturer": "TecnoVis",
+   "model": "TV-TVI200B",
+   "name": "Bullet HD-TVI 1080p IR 20 m",
+   "specs": {
+    "mp": 2,
+    "resW": 1920,
+    "resH": 1080,
+    "sensorW": 4.8,
+    "sensorH": 2.7,
+    "lens": 3.6,
+    "analog": true,
+    "analogFormat": "TVI",
+    "fps": 25,
+    "codec": "H.265",
+    "bitrate": 4096,
+    "poe": false,
+    "power": 3.6,
+    "volts": 12,
+    "ir": 20,
+    "ip": "IP66",
+    "form": "bullet",
+    "maxCoax": 250,
+    "maxUtp": 120,
+    "note": "Salida conmutable TVI/AHD/CVI/CVBS por OSD."
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 61,
+   "stock": true,
+   "id": "CAM-A-1080-DOME",
+   "category": "camera",
+   "manufacturer": "TecnoVis",
+   "model": "TV-TVI200D",
+   "name": "Domo HD-TVI 1080p antivandálico IR 15 m",
+   "specs": {
+    "mp": 2,
+    "resW": 1920,
+    "resH": 1080,
+    "sensorW": 4.8,
+    "sensorH": 2.7,
+    "lens": 2.8,
+    "analog": true,
+    "analogFormat": "TVI",
+    "fps": 25,
+    "codec": "H.265",
+    "bitrate": 4096,
+    "poe": false,
+    "power": 2.4,
+    "volts": 12,
+    "ir": 15,
+    "ip": "IP67",
+    "ik": "IK10",
+    "form": "dome",
+    "maxCoax": 250,
+    "maxUtp": 120
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 118,
+   "stock": true,
+   "id": "CAM-A-5MP-VARIFOCAL",
+   "category": "camera",
+   "manufacturer": "TecnoVis",
+   "model": "TV-CVI500V",
+   "name": "Bullet HD-CVI 5 MP varifocal 2,8–12 mm",
+   "specs": {
+    "mp": 5,
+    "resW": 2560,
+    "resH": 1944,
+    "sensorW": 5.7,
+    "sensorH": 3.2,
+    "lens": 6,
+    "focalOptions": [
+     2.8,
+     4,
+     6,
+     8,
+     12
+    ],
+    "varifocal": true,
+    "analog": true,
+    "analogFormat": "CVI",
+    "fps": 20,
+    "codec": "H.265",
+    "bitrate": 6144,
+    "poe": false,
+    "power": 4.2,
+    "volts": 12,
+    "ir": 40,
+    "ip": "IP67",
+    "ik": "IK10",
+    "form": "bullet",
+    "maxCoax": 160,
+    "maxUtp": 80
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 34,
+   "stock": true,
+   "id": "CAM-A-960H",
+   "category": "camera",
+   "manufacturer": "TecnoVis",
+   "model": "TV-CVBS100",
+   "name": "Bullet CVBS 960H IR 25 m (recambio de instalación existente)",
+   "specs": {
+    "mp": 0.4,
+    "resW": 976,
+    "resH": 494,
+    "sensorW": 4.9,
+    "sensorH": 3.7,
+    "lens": 3.6,
+    "analog": true,
+    "analogFormat": "CVBS",
+    "fps": 25,
+    "codec": "H.264",
+    "bitrate": 2048,
+    "poe": false,
+    "power": 2.2,
+    "volts": 12,
+    "ir": 25,
+    "ip": "IP66",
+    "form": "bullet",
+    "maxCoax": 300,
+    "maxUtp": 250
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 235,
+   "stock": true,
+   "id": "DVR-8H",
+   "category": "nvr",
+   "manufacturer": "TecnoVis",
+   "model": "TV-DVR8H5",
+   "name": "DVR híbrido 8 canales 5 en 1 (5 MP) · 1 bahía",
+   "specs": {
+    "channels": 8,
+    "hdChannels": 8,
+    "analogFormats": [
+     "CVBS",
+     "TVI",
+     "AHD",
+     "CVI",
+     "TVI5"
+    ],
+    "bays": 1,
+    "maxMbps": 96,
+    "rackU": 1,
+    "power": 20,
+    "ip": true,
+    "hybrid": true
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 398,
+   "stock": true,
+   "id": "DVR-16H",
+   "category": "nvr",
+   "manufacturer": "TecnoVis",
+   "model": "TV-DVR16H5",
+   "name": "DVR híbrido 16 canales 5 en 1 (5 MP) · 2 bahías",
+   "specs": {
+    "channels": 16,
+    "hdChannels": 16,
+    "analogFormats": [
+     "CVBS",
+     "TVI",
+     "AHD",
+     "CVI",
+     "TVI5"
+    ],
+    "bays": 2,
+    "maxMbps": 192,
+    "rackU": 1,
+    "power": 30,
+    "ip": true,
+    "hybrid": true
+   }
+  },
+  {
+   "unit": "m",
+   "price": 0.55,
+   "stock": true,
+   "id": "CBL-RG59",
+   "category": "cable",
+   "manufacturer": "Cables Ibéricos",
+   "model": "CI-RG59-75",
+   "name": "Coaxial RG-59 75 Ω — metro",
+   "specs": {
+    "metersPerUnit": 1,
+    "ohm": 75,
+    "maxLink": 250,
+    "analog": true
+   }
+  },
+  {
+   "unit": "m",
+   "price": 0.85,
+   "stock": true,
+   "id": "CBL-RG6",
+   "category": "cable",
+   "manufacturer": "Cables Ibéricos",
+   "model": "CI-RG6-75",
+   "name": "Coaxial RG-6 75 Ω — metro",
+   "specs": {
+    "metersPerUnit": 1,
+    "ohm": 75,
+    "maxLink": 340,
+    "analog": true
+   }
+  },
+  {
+   "unit": "par",
+   "price": 13.4,
+   "stock": true,
+   "id": "ACC-BALUN",
+   "category": "accessory",
+   "manufacturer": "Nexa",
+   "model": "NX-BL2P",
+   "name": "Par de balunes pasivos vídeo/alimentación (UTP)",
+   "specs": {
+    "balun": true
+   }
+  },
+  {
+   "unit": "bolsa",
+   "price": 9.8,
+   "stock": true,
+   "id": "ACC-BNC",
+   "category": "connector",
+   "manufacturer": "Nexa",
+   "model": "NX-BNC-C",
+   "name": "Conector BNC a compresión (bolsa de 10)",
+   "specs": {
+    "perUnit": 10
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 27.5,
+   "stock": true,
+   "id": "ACC-PSU12",
+   "category": "accessory",
+   "manufacturer": "Nexa",
+   "model": "NX-PS12-5",
+   "name": "Fuente conmutada 12 V 5 A con distribución",
+   "specs": {
+    "volts": 12,
+    "amps": 5,
+    "power12": true
+   }
+  },
+  {
+   "unit": "ud",
+   "price": 690,
+   "stock": true,
+   "id": "ACC-BARRIER",
+   "category": "accessory",
+   "manufacturer": "Nexa",
+   "model": "NX-BAR4",
+   "name": "Barrera de acceso vehicular 4 m con mando",
+   "specs": {}
+  },
+  {
+   "unit": "licencia",
+   "price": 45,
+   "stock": true,
+   "id": "ACC-ANLIC",
+   "category": "accessory",
+   "manufacturer": "Nexa",
+   "model": "NX-AN-LIC",
+   "name": "Licencia de analítica de vídeo por canal",
+   "specs": {}
+  },
+  {
+   "unit": "ud",
+   "price": 6.5,
+   "stock": true,
+   "id": "BOX-WALL",
+   "category": "box",
+   "manufacturer": "Nexa",
+   "model": "NX-BW1",
+   "name": "Caja de conexión estanca IP65 pared",
+   "specs": {}
+  },
+  {
+   "unit": "ud",
+   "price": 14,
+   "stock": true,
+   "id": "BOX-POLE",
+   "category": "box",
+   "manufacturer": "Nexa",
+   "model": "NX-BP1",
+   "name": "Caja de conexión para poste IP65",
+   "specs": {}
+  },
+  {
+   "unit": "ud",
+   "price": 9,
+   "stock": true,
+   "id": "ACC-BRACKET",
+   "category": "box",
+   "manufacturer": "ProVision",
+   "model": "PV-BRK",
+   "name": "Soporte de pared para cámara",
+   "specs": {}
+  },
+  {
+   "unit": "ud",
+   "price": 12,
+   "stock": true,
+   "id": "ACC-JBOX",
+   "category": "box",
+   "manufacturer": "ProVision",
+   "model": "PV-JB",
+   "name": "Caja de empalme para domo",
+   "specs": {}
+  },
+  {
+   "unit": "ud",
+   "price": 8.5,
+   "stock": true,
+   "id": "ACC-PSU",
+   "category": "accessory",
+   "manufacturer": "Nexa",
+   "model": "NX-PSU12",
+   "name": "Fuente de alimentación 12 V 2 A",
+   "specs": {}
+  },
+  {
+   "unit": "barra",
+   "price": 2.1,
+   "stock": true,
+   "id": "CAN-PVC20",
+   "category": "conduit",
+   "manufacturer": "Nexa",
+   "model": "NX-T20",
+   "name": "Tubo PVC rígido 20 mm — barra 3 m",
+   "specs": {
+    "metersPerUnit": 3
+   }
+  },
+  {
+   "unit": "barra",
+   "price": 2.9,
+   "stock": true,
+   "id": "CAN-PVC25",
+   "category": "conduit",
+   "manufacturer": "Nexa",
+   "model": "NX-T25",
+   "name": "Tubo PVC rígido 25 mm — barra 3 m",
+   "specs": {
+    "metersPerUnit": 3
+   }
+  },
+  {
+   "unit": "tramo",
+   "price": 18,
+   "stock": true,
+   "id": "CAN-BAND50",
+   "category": "conduit",
+   "manufacturer": "Nexa",
+   "model": "NX-BJ50",
+   "name": "Bandeja metálica 50×30 — tramo 3 m",
+   "specs": {
+    "metersPerUnit": 3
+   }
+  }
+ ]
+}

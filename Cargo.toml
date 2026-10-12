@@ -1,0 +1,46 @@
+## CCTV DESIGN PRO — Shell de escritorio (Tauri 2)
+##
+## Compila el ejecutable Windows portable (§35) con SQLite propio (§32) y el puente al
+## conversor DWG local (§9). Sin dependencias de red en tiempo de ejecución.
+##
+## Compilación cruzada desde Linux (sin máquina Windows):
+##   rustup target add x86_64-pc-windows-gnu
+##   cargo build --release --target x86_64-pc-windows-gnu
+## Compilación nativa en Windows (MSVC, la que produce el binario de producción):
+##   cargo build --release --target x86_64-pc-windows-msvc
+
+[package]
+name = "cctv-design-pro"
+version = "1.0.0"
+edition = "2021"
+description = "CCTV DESIGN PRO — diseño, cálculo y documentación de sistemas de videovigilancia"
+authors = ["CCTV DESIGN PRO"]
+license = "Propietario"
+build = "build.rs"
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+# Sin las funciones que no se usan en Windows (compresión brotli, X11, DBus): menos dependencias,
+# compilación más ligera en equipos modestos y ejecutable más pequeño (§36)
+tauri = { version = "2", default-features = false, features = ["wry", "common-controls-v6", "image-ico"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+rusqlite = { version = "0.32", features = ["bundled"] }
+
+[features]
+default = []
+# Activa la consola en Windows (útil para depurar en el taller)
+consola = []
+
+[profile.release]
+opt-level = "s"        # §36: tamaño y arranque rápido en equipos modestos
+codegen-units = 16     # compilación más ligera (portátiles de pocos núcleos)
+lto = false
+panic = "abort"
+strip = true
+
+[target.x86_64-pc-windows-gnu]
+linker = "x86_64-w64-mingw32-gcc"
+ar = "x86_64-w64-mingw32-ar"

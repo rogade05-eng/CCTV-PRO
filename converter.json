@@ -1,0 +1,25 @@
+{
+ "nombre": "LibreDWG dwg2dxf",
+ "ejecutable": "dwg2dxf.exe",
+ "version": "LibreDWG 0.14",
+ "origen": "https://github.com/LibreDWG/libredwg/releases/download/0.14/libredwg-0.14-win64.zip",
+ "sha256": "1ad7e15344d20b3426c3435b078d82fb84b35062815946b2cca9c5fc9810fea8",
+ "licencia": "GPL-3.0-or-later",
+ "descripcion": "Conversor DWG → DXF local. El programa lo ejecuta sin ventana; nunca sale a Internet ni invoca AutoCAD (§9).",
+ "argumentos": [
+  "-y"
+ ],
+ "extraido": "2026-09-30T16:54:24.601Z",
+ "piezas": [
+  {
+   "fichero": "dwg2dxf.exe",
+   "bytes": 335290,
+   "sha256": "955f5f2855bc0c5a8bd7a93424ea259ab14405799638b889b2b3c5918c529e3e"
+  },
+  {
+   "fichero": "libredwg-0.dll",
+   "bytes": 31171427,
+   "sha256": "cc86e25e755ac225eadc839eaa232c2f2233c7a1b60fcd77b2cd1915761aef12"
+  }
+ ]
+}
